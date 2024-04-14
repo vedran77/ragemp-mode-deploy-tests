@@ -1,0 +1,61 @@
+.lockpick_circle {
+  position: relative;
+  margin: 0 auto;
+  width: 8vw;
+  height: 8vw;
+  display: flex;
+  z-index: 2;
+  margin-bottom: 2vw;
+
+  &-progress {
+    width: 8vw;
+    height: 8vw;
+  }
+
+  &-point {
+    position: absolute;
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50%;
+
+    &::after {
+      @extend %pseudo;
+
+      top: -8%;
+      left: 50%;
+      opacity: 0.98;
+      transform: translateX(-50%);
+      width: 2vw;
+      height: 2vw;
+      border-radius: 50%;
+      background-color: $gh-green;
+      border: 0.3em solid rgba(17, 25, 40, 0.8);
+    }
+  }
+
+  &-pointer {
+    position: absolute;
+    width: 8vw;
+    height: 8vw;
+    border-radius: 50%;
+    animation: rotating 2s linear infinite;
+
+    &:hover {
+      cursor: pointer;
+      cursor: hand;
+    }
+
+    &::after {
+      @extend %pseudo;
+
+      top: -2%;
+      left: 50%;
+      transform: translateX(-50%);
+      height: 0.8vw;
+      width: 1.5vw;
+      border-radius: 100%;
+      background-color: $gh-green;
+      z-index: 999;
+    }
+  }
+}

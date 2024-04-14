@@ -1,0 +1,53 @@
+.character_options {
+	position: absolute;
+	bottom: 10%;
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+
+	&-list {
+		display: flex;
+		justify-content: center;
+		flex-direction: row;
+		gap: 0.8vw;
+	}
+
+	&-item {
+		position: relative;
+		margin-bottom: 0.8%;
+		width: 5vw;
+		height: 4.5vw;
+		text-transform: uppercase;
+		font-weight: 300;
+		font-size: 0.9vw;
+
+		&:hover .icon {
+			background: rgba($gh-green, $alpha: 0.8);
+		}
+
+		.icon {
+			padding: 15%;
+			width: inherit;
+			height: inherit;
+			background: rgba($color: #000000, $alpha: 0.5);
+			transition: background-color 0.3s ease;
+
+			img {
+				height: 100%;
+				margin: 0 auto;
+				display: block;
+				filter: invert(1);
+			}
+		}
+
+		span {
+			margin-top: -15%;
+			text-align: end;
+			display: block;
+		}
+
+		&.active .icon {
+			background: rgba($gh-green, $alpha: 0.8);
+		}
+	}
+}

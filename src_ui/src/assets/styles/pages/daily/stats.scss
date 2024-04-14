@@ -1,0 +1,82 @@
+.daily_stats {
+  position: relative;
+  padding: 0 2%;
+  z-index: 1;
+
+  &-title {
+    position: absolute;
+    top: 5%;
+    left: 7%;
+    margin: 0;
+    z-index: 2;
+  }
+
+  &-container {
+    padding: 5% 10%;
+    padding-top: 25%;
+    z-index: 2;
+    background: rgb(17, 25, 40);
+    background: linear-gradient(
+      210deg,
+      rgba(17, 25, 40, 1) 0%,
+      rgba(0, 0, 0, 1) 100%
+    );
+  }
+
+  &-money {
+    padding-top: 5%;
+    margin-bottom: 2%;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    font-weight: 700;
+  }
+
+  &-experience {
+    margin-bottom: 2%;
+    font-size: 1vw;
+
+    .title {
+      margin: 0;
+      padding-left: 4%;
+      text-transform: uppercase;
+      font-weight: 300;
+    }
+  }
+
+  .progress {
+    &_bar {
+      overflow: hidden;
+      border: 1px solid $white;
+      border-radius: 1vw;
+
+      &-fill {
+        height: 2vh;
+        background: linear-gradient(30deg, $gh-green 0%, rgb(19, 145, 46) 100%);
+        border-radius: 1vw;
+      }
+    }
+
+    &_points {
+      text-align: right;
+      font-weight: 300;
+    }
+  }
+
+  &-level {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .title {
+      margin: 0;
+      font-size: 1.6vw;
+      font-weight: 300;
+    }
+
+    .current {
+      font-size: 3vw;
+      font-weight: 700;
+    }
+  }
+}

@@ -1,0 +1,97 @@
+@import './products';
+
+.supermarket {
+  padding: 4% 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+
+  .logo {
+    width: 20%;
+
+    position: absolute;
+    top: 1%;
+    right: 10%;
+    z-index: 9;
+  }
+
+  @extend %smoke;
+
+  &_container {
+    position: relative;
+    padding: 2% 4%;
+    width: 100%;
+
+    & > * {
+      position: relative;
+      z-index: 1;
+    }
+
+    &::before {
+      @extend %pseudo;
+
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgb(17, 25, 40);
+      background: linear-gradient(
+        210deg,
+        rgba(17, 25, 40, 1) 0%,
+        rgba(0, 0, 0, 1) 100%
+      );
+      background-size: cover;
+      z-index: 0;
+      border-radius: 1vw;
+    }
+  }
+
+  &_title {
+    margin: 0;
+  }
+
+  &_hint {
+    text-align: center;
+    font-weight: 200;
+    font-size: 1.4vw;
+  }
+
+  &_quantity {
+    padding-left: 2%;
+    padding-right: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    &-input {
+      border: none !important;
+      width: 10%;
+      border-radius: 0.5vw !important;
+      background: rgba(0, 0, 0, 0.5) !important;
+      padding: 0.2vw 1vw !important;
+    }
+  }
+
+  &_price {
+    display: flex;
+    align-items: center;
+
+    &-title {
+      margin-right: 2%;
+      font-size: 1.5vw;
+    }
+  }
+
+  .total-price_value {
+    flex-shrink: 0;
+  }
+
+  &_footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

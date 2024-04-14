@@ -1,0 +1,31 @@
+.chat_messages {
+	margin-bottom: 0.5%;
+
+	&.active {
+		opacity: 1;
+	}
+
+	&-list {
+		padding-left: 4%;
+		height: 25vh;
+		direction: rtl;
+		overflow-y: scroll;
+		-ms-overflow-style: none;
+		scrollbar-width: none;
+
+		&::-webkit-scrollbar {
+			width: 0;
+			opacity: 0;
+		}
+	}
+
+	&-item {
+		position: relative;
+		text-align: left;
+		font-family: 'SF UI Text';
+		font-weight: 500;
+		font-size: 0.8vw;
+		direction: ltr;
+		text-shadow: 0.05vw 0.05vw 0.05vw rgba(0, 0, 0, 1);
+	}
+}

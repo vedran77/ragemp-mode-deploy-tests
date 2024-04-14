@@ -1,0 +1,21 @@
+{
+  "handshake": "Rukujte se sa strancem",
+  "refuel": "Napunite vozilo gorivom",
+  "tuning": "Tuniraj auto",
+  "repair_veh": "Popravi vozilo kod mehaničara",
+  "buy_car": "Kupite vozilo",
+  "buy_prop": "Kupi kuću",
+  "house_tax": "Otplati porez na kuću",
+  "tattoo": "Odradi/ukloni tetovažu",
+  "give_cash": "Darujte novac strancu",
+  "barbershop": "Posjetite frizerski salon",
+  "bank_replenish": "Napunite račun u banci",
+  "buy_weapon": "Kupite oružje",
+  "buy_clothes": "Kupite odeću",
+  "phone_call": "Pozovite stranca telefonom",
+  "building_money": "Zaradite novac na gradilištu",
+  "theft_veh": "Ukradi vozilo",
+  "postal_delivery": "Dostavite poštu",
+  "waterfront_money": "Zaradite novac na vodovodu",
+  "trucking_money": "Zaradite novac vozeci kamion"
+}

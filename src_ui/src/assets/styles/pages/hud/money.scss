@@ -1,0 +1,53 @@
+.hud_money {
+  // position: absolute;
+  // top: 15%;
+  // right: 2%;
+  min-width: 20%;
+  max-width: 30%;
+  width: fit-content;
+
+  &-item {
+    position: relative;
+    margin: 0;
+    margin-bottom: 0.5vw;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    justify-content: flex-start;
+    gap: 0.3vw;
+    font-size: 0.8vw;
+    text-shadow: 0.05vw 0.05vw 0.05vw rgba(0, 0, 0, 0.5);
+    height: 2.2vh;
+
+    padding: 0.2vw 0.5vw;
+
+    svg {
+      fill: rgba($color: $gh-green, $alpha: 0.8);
+    }
+
+    background: rgba(17, 25, 40, 0.8);
+    background: linear-gradient(
+      210deg,
+      rgba(17, 25, 40, 0.8) 0%,
+      rgba(0, 0, 0, 0.8) 100%
+    );
+    border-left: 3px solid rgba($color: $gh-green, $alpha: 0.8);
+    border-radius: 0.5vw;
+  }
+
+  &-change {
+    position: absolute;
+    bottom: -30%;
+    font-size: 0.7vw;
+    font-weight: 300;
+    text-align: left;
+
+    &.positive {
+      color: #a9e621;
+    }
+
+    &.negative {
+      color: #ca3842;
+    }
+  }
+}

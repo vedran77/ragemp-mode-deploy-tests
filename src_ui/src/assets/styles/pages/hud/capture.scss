@@ -1,0 +1,94 @@
+.capture {
+	position: absolute;
+	bottom: 3vw;
+	right: 15vw;
+	display: flex;
+	align-items: flex-start;
+
+	width: 23vw;
+	height: 10vh;
+
+	background: rgba(0, 0, 0, 0.7);
+	border-radius: 8px;
+	border: 1px solid #c4ff07;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 1vw;
+
+	&_name {
+		clip-path: polygon(10% 0, 100% 0%, 85% 100%, 0% 100%);
+		position: absolute;
+		top: -0.7vh;
+		left: 1vw;
+		padding: 0.05vw 1.1vw 0.05vw 0.7vw;
+		text-transform: uppercase;
+		font-weight: 600;
+		background: #c4ff07;
+		font-size: 0.6vw;
+	}
+
+	&_team {
+		display: flex;
+		gap: 0.5vw;
+		align-items: center;
+		text-align: center;
+
+		&:last-of-type {
+			flex-direction: row-reverse;
+		}
+
+		p {
+			margin-top: -5px;
+			text-transform: uppercase;
+			font-size: 1vw;
+			font-weight: 700;
+		}
+
+		p:nth-child(1) {
+			font-weight: 200;
+			font-size: 0.8vw;
+		}
+
+		img {
+			width: 3vw;
+			height: 3vw;
+			border-radius: 50%;
+		}
+
+		img:nth-child(1) {
+			margin-right: 5px;
+		}
+
+		img:nth-child(2) {
+			margin-left: 5px;
+		}
+	}
+
+	&_timer {
+		margin: 0 1vw;
+		text-align: center;
+
+		&-circle {
+			position: relative;
+			width: 2.2vw;
+			height: 2.2vw;
+		}
+
+		&-icon {
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			width: 1vw;
+			height: 1vw;
+			fill: rgba($white, $alpha: 0.7);
+		}
+
+		&-current {
+			display: block;
+			font-size: 1vw;
+			color: #c4ff07;
+			text-shadow: 0.03vw 0.03vw 0.03vw rgba(0, 0, 0, 0.3);
+		}
+	}
+}

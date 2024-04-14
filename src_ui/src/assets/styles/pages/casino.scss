@@ -1,0 +1,147 @@
+.blackjack {
+    .bgleft {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: linear-gradient(90deg, #18202890, #18202820, #18202800);
+        width: 80%;
+        height: 100%;
+        z-index: -1;
+    }
+
+    .bgright {
+        position: absolute;
+        top: 0;
+        right: 0vh;
+        background: linear-gradient(270deg, #18202890, #18202820, #18202800);
+        width: 80%;
+        z-index: -1;
+        height: 100%;
+    }
+
+    .infoiller {
+        position: absolute;
+        top: 28vh;
+        right: -4vh;
+    }
+
+    .cardbg {
+        width: 45vh;
+    }
+
+    .bj_info_me {
+        position: absolute;
+        top: 11vh;
+        text-align: center;
+        height: 7vh;
+        width: 25.5vh;
+        left: 10vh;
+    }
+
+    .name_me {
+        color: #ffffff90;
+        text-shadow: 0 0 2vh #00000020;
+        text-align: center;
+        font-size: 1.6vh;
+    }
+
+    .count_me {
+        font-size: 5vh;
+        text-shadow: 0 0 2vh #00000020;
+    }
+
+    .card {
+        width: 4vh;
+        margin-bottom: -0.25vh;
+    }
+
+    .infostavka {
+        position: absolute;
+        width: 40vh;
+        height: 20vh;
+        top: 43vh;
+        left: 3vh;
+    }
+
+    .block_stavka {
+        position: absolute;
+        width: 15vh;
+        height: 8vh;
+    }
+
+    .nameblock {
+        font-size: 1.5vh;
+        color: #fff;
+        opacity: 0.7;
+    }
+
+    .count {
+        font-size: 3vh;
+        text-shadow: 0 0 2vh #00000020;
+    }
+
+    .chip {
+        width: 2vh;
+        margin-bottom: -0vh;
+        margin-left: 0.9vh;
+    }
+
+    .help_block {
+        position: absolute;
+        bottom: 5vh;
+        left: 3vh;
+        width: 35vh;
+        height: 14vh;
+    }
+
+    .help1 {
+        position: absolute;
+        width: 20vh;
+    }
+
+    .block1 {
+        position: absolute;
+        background: #ffffff30;
+        width: 4vh;
+        text-align: center;
+        line-height: 4vh;
+        height: 4vh;
+    }
+
+    .arrow {
+        position: absolute;
+        top: 1vh;
+        left: 1.25vh;
+    }
+
+    .arrow2 {
+        position: absolute;
+        top: 1.25vh;
+        left: 2vh;
+    }
+
+    .namehe {
+        font-size: 1.6vh;
+        opacity: 0.7;
+        top: 1vh;
+        position: absolute;
+        left: 11vh;
+    }
+
+    .time1 {
+        text-align: center;
+        font-size: 10vh;
+        font-weight: 600;
+        z-index: 3;
+    }
+
+    .time2 {
+        text-align: center;
+        font-size: 14vh;
+        opacity: 0.1;
+        color: red;
+        z-index: 2;
+        margin-top: -11.5vh;
+        font-weight: 600;
+    }
+}

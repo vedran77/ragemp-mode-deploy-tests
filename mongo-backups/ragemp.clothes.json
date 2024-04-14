@@ -1,0 +1,9280 @@
+[{
+  "_id": {
+    "$oid": "60a419bfb51b8d885ab461d3"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 4,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a419fcb51b8d885ab461d4"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 0,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a509bb3730f6c9706e2677"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 5,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a509c53730f6c9706e2678"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 7,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a509cc3730f6c9706e2679"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 9,
+  "price": 160,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a509d53730f6c9706e267a"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 12,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a509f73730f6c9706e267c"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 14,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a509ff3730f6c9706e267d"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 20,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a093730f6c9706e267e"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 21,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a113730f6c9706e267f"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 22,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a193730f6c9706e2680"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 23,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a203730f6c9706e2681"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 24,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a283730f6c9706e2682"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 25,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a373730f6c9706e2684"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 29,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a453730f6c9706e2686"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 31,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a4f3730f6c9706e2688"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 33,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a543730f6c9706e2689"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 34,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a593730f6c9706e268a"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 35,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a603730f6c9706e268b"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 36,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a683730f6c9706e268c"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 39,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a713730f6c9706e268d"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 40,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a763730f6c9706e268e"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 41,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a7e3730f6c9706e268f"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 42,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a843730f6c9706e2690"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 43,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a893730f6c9706e2691"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 44,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a8d3730f6c9706e2692"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 53,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a943730f6c9706e2693"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 54,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50a993730f6c9706e2694"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 55,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50aa33730f6c9706e2695"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 56,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50aa93730f6c9706e2696"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 64,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50aad3730f6c9706e2697"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 65,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ab13730f6c9706e2698"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 93,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50abd3730f6c9706e2699"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 94,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ac43730f6c9706e269a"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 95,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50acd3730f6c9706e269b"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 96,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ad13730f6c9706e269c"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 97,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ad63730f6c9706e269d"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 98,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ade3730f6c9706e269e"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 99,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ae93730f6c9706e269f"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 100,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50aed3730f6c9706e26a0"
+  },
+  "gender": "female",
+  "category": "hat",
+  "style": 108,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b133730f6c9706e26a2"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 1,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b1b3730f6c9706e26a3"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 3,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b223730f6c9706e26a4"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 6,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b273730f6c9706e26a5"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 7,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b2e3730f6c9706e26a6"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 8,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b353730f6c9706e26a7"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 10,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b3c3730f6c9706e26a8"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 20,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b443730f6c9706e26a9"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 21,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b4f3730f6c9706e26aa"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 24,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b683730f6c9706e26ab"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 25,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b6e3730f6c9706e26ac"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 31,
+  "price": 550,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b7f3730f6c9706e26ae"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 35,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50b8f3730f6c9706e26af"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 37,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ba23730f6c9706e26b1"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 45,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bab3730f6c9706e26b2"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 50,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bb53730f6c9706e26b3"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 51,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bbb3730f6c9706e26b4"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 53,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bc53730f6c9706e26b5"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 54,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bca3730f6c9706e26b6"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 55,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bd13730f6c9706e26b7"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 58,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bd93730f6c9706e26b8"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 63,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bdf3730f6c9706e26b9"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 64,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bef3730f6c9706e26ba"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 65,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50bfb3730f6c9706e26bb"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 66,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c023730f6c9706e26bc"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 69,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c083730f6c9706e26bd"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 70,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c103730f6c9706e26be"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 71,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c1c3730f6c9706e26bf"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 72,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c263730f6c9706e26c0"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 77,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c2c3730f6c9706e26c1"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 78,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c303730f6c9706e26c2"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 80,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c353730f6c9706e26c3"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 81,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c393730f6c9706e26c4"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 87,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c403730f6c9706e26c5"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 90,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c443730f6c9706e26c6"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 91,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c4f3730f6c9706e26c8"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 95,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c543730f6c9706e26c9"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 97,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c583730f6c9706e26ca"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 98,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c603730f6c9706e26cb"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 99,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c693730f6c9706e26cc"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 102,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c783730f6c9706e26cd"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 103,
+  "price": 2001,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c803730f6c9706e26ce"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 104,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c863730f6c9706e26cf"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 106,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50c8d3730f6c9706e26d0"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 107,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ca73730f6c9706e26d1"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 108,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cab3730f6c9706e26d2"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 110,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cb43730f6c9706e26d3"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 112,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cbe3730f6c9706e26d4"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 113,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cc63730f6c9706e26d5"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 114,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ccb3730f6c9706e26d6"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 115,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ccf3730f6c9706e26d7"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 116,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cd83730f6c9706e26d8"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 121,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cde3730f6c9706e26d9"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 122,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ce43730f6c9706e26da"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 127,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ce93730f6c9706e26db"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 131,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50cee3730f6c9706e26dc"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 133,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d003730f6c9706e26de"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 135,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d053730f6c9706e26df"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 137,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d0a3730f6c9706e26e0"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 138,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d113730f6c9706e26e1"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 139,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d1e3730f6c9706e26e3"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 143,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d233730f6c9706e26e4"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 144,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d2b3730f6c9706e26e5"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 145,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d363730f6c9706e26e7"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 148,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d3c3730f6c9706e26e8"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 150,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d473730f6c9706e26e9"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 151,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d543730f6c9706e26ea"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 153,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d5a3730f6c9706e26eb"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 156,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d5f3730f6c9706e26ec"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 158,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d643730f6c9706e26ed"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 160,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d713730f6c9706e26ef"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 164,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d7c3730f6c9706e26f0"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 165,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d833730f6c9706e26f1"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 166,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d883730f6c9706e26f2"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 172,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d963730f6c9706e26f4"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 178,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50d9b3730f6c9706e26f5"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 183,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50da13730f6c9706e26f6"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 184,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50dad3730f6c9706e26f8"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 187,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50db93730f6c9706e26fa"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 190,
+  "price": 5600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50dc33730f6c9706e26fb"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 192,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50dcf3730f6c9706e26fc"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 193,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50dd43730f6c9706e26fd"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 194,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50de53730f6c9706e26fe"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 196,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50dec3730f6c9706e26ff"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 198,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e053730f6c9706e2701"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 202,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e0d3730f6c9706e2702"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 206,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e143730f6c9706e2703"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 228,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e1a3730f6c9706e2704"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 240,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e223730f6c9706e2705"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 242,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e383730f6c9706e2706"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 248,
+  "price": 7000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e453730f6c9706e2707"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 253,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e543730f6c9706e2708"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 259,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e5a3730f6c9706e2709"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 265,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e613730f6c9706e270a"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 266,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e663730f6c9706e270b"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 267,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e713730f6c9706e270c"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 268,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50e763730f6c9706e270d"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 271,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ea03730f6c9706e270f"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 278,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50eab3730f6c9706e2710"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 292,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50eb43730f6c9706e2711"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 301,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ebb3730f6c9706e2712"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 307,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50eca3730f6c9706e2713"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 309,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ed93730f6c9706e2714"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 314,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ee23730f6c9706e2715"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 315,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50eea3730f6c9706e2716"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 316,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50efb3730f6c9706e2718"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 319,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f093730f6c9706e2719"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 320,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f133730f6c9706e271a"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 322,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f313730f6c9706e271b"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 323,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f393730f6c9706e271c"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 341,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f3d3730f6c9706e271d"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 344,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f423730f6c9706e271e"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 345,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f4e3730f6c9706e271f"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 353,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f523730f6c9706e2720"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 354,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f643730f6c9706e2721"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 363,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f6c3730f6c9706e2722"
+  },
+  "gender": "female",
+  "category": "jacket",
+  "style": 365,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50f913730f6c9706e2723"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 2,
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50fa13730f6c9706e2724"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 3,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50faa3730f6c9706e2725"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 4,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50fc33730f6c9706e2726"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 5,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50fc83730f6c9706e2727"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 6,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50fd13730f6c9706e2728"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 7,
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50fda3730f6c9706e2729"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 8,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50fe63730f6c9706e272a"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 9,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50feb3730f6c9706e272b"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 10,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a50ff63730f6c9706e272c"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 19,
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510153730f6c9706e272d"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 20,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5101c3730f6c9706e272e"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 21,
+  "price": 9000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510233730f6c9706e272f"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 22,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5102a3730f6c9706e2730"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 23,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510353730f6c9706e2731"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 24,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5103c3730f6c9706e2732"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 25,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510453730f6c9706e2733"
+  },
+  "gender": "female",
+  "category": "watch",
+  "style": 26,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510573730f6c9706e2734"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 5,
+  "price": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5105b3730f6c9706e2735"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 9,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510623730f6c9706e2736"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 11,
+  "price": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510683730f6c9706e2737"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 13,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5106f3730f6c9706e2738"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 14,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510783730f6c9706e2739"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 15,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5107d3730f6c9706e273a"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 16,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510863730f6c9706e273b"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 17,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5108a3730f6c9706e273c"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 18,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510963730f6c9706e273e"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 22,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5109c3730f6c9706e273f"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 23,
+  "price": 100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510a23730f6c9706e2740"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 26,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510a83730f6c9706e2741"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 27,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510b73730f6c9706e2743"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 32,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510ca3730f6c9706e2744"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 33,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510e33730f6c9706e2746"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 38,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510ec3730f6c9706e2747"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 40,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510f23730f6c9706e2748"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 49,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a510fe3730f6c9706e2749"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 67,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511053730f6c9706e274a"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 68,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5110d3730f6c9706e274b"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 73,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511123730f6c9706e274c"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 74,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511193730f6c9706e274d"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 75,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5111e3730f6c9706e274e"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 76,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511293730f6c9706e274f"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 83,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511363730f6c9706e2751"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 86,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5113b3730f6c9706e2752"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 88,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5114f3730f6c9706e2753"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 101,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511593730f6c9706e2754"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 105,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5115f3730f6c9706e2755"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 109,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511633730f6c9706e2756"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 111,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5116c3730f6c9706e2757"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 117,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511773730f6c9706e2759"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 125,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5117c3730f6c9706e275a"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 128,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511813730f6c9706e275b"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 130,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511893730f6c9706e275c"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 132,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5118e3730f6c9706e275d"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 136,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511933730f6c9706e275e"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 141,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511983730f6c9706e275f"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 142,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511a33730f6c9706e2761"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 161,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511a83730f6c9706e2762"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 171,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511ad3730f6c9706e2763"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 173,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511b33730f6c9706e2764"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 208,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511b73730f6c9706e2765"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 235,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511bc3730f6c9706e2766"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 246,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511cf3730f6c9706e2767"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 249,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511d63730f6c9706e2768"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 269,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511e13730f6c9706e276a"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 280,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511ea3730f6c9706e276b"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 283,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511f03730f6c9706e276c"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 284,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511f63730f6c9706e276d"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 310,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a511fd3730f6c9706e276e"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 321,
+  "price": 4500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512023730f6c9706e276f"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 324,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512133730f6c9706e2771"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 337,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512183730f6c9706e2772"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 349,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5121e3730f6c9706e2773"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 359,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512243730f6c9706e2774"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 368,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512293730f6c9706e2775"
+  },
+  "gender": "female",
+  "category": "shirt",
+  "style": 369,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512393730f6c9706e2776"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 0,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5123e3730f6c9706e2777"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 1,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512443730f6c9706e2778"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 2,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5124b3730f6c9706e2779"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 3,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512503730f6c9706e277a"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 4,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512563730f6c9706e277b"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 6,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5125b3730f6c9706e277c"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 7,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512603730f6c9706e277d"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 8,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512663730f6c9706e277e"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 9,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5126b3730f6c9706e277f"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 10,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512703730f6c9706e2780"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 11,
+  "price": 650,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512783730f6c9706e2781"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 12,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512803730f6c9706e2782"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 14,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512853730f6c9706e2783"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 15,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5128a3730f6c9706e2784"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 16,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512903730f6c9706e2785"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 17,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512963730f6c9706e2786"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 18,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5129b3730f6c9706e2787"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 19,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512a03730f6c9706e2788"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 20,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512a53730f6c9706e2789"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 23,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512aa3730f6c9706e278a"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 24,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512b03730f6c9706e278b"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 25,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512b63730f6c9706e278c"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 26,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512bc3730f6c9706e278d"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 27,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512c13730f6c9706e278e"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 28,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512d03730f6c9706e2791"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 34,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512db3730f6c9706e2793"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 43,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512df3730f6c9706e2794"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 44,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512e43730f6c9706e2795"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 50,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512ee3730f6c9706e2796"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 51,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512f43730f6c9706e2797"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 52,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a512fb3730f6c9706e2798"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 53,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513013730f6c9706e2799"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 54,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513093730f6c9706e279a"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 55,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5130f3730f6c9706e279b"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 56,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513163730f6c9706e279c"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 60,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5131b3730f6c9706e279d"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 62,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5131f3730f6c9706e279e"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 63,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513273730f6c9706e279f"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 65,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5132d3730f6c9706e27a0"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 67,
+  "price": 1150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513333730f6c9706e27a1"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 71,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513373730f6c9706e27a2"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 73,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5133b3730f6c9706e27a3"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 74,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513433730f6c9706e27a4"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 78,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513483730f6c9706e27a5"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 80,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5134c3730f6c9706e27a6"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 82,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513503730f6c9706e27a7"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 87,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513553730f6c9706e27a8"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 101,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5135a3730f6c9706e27a9"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 103,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5135e3730f6c9706e27aa"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 104,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513643730f6c9706e27ab"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 106,
+  "price": 3600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513693730f6c9706e27ac"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 107,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5136f3730f6c9706e27ad"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 108,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513733730f6c9706e27ae"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 123,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513793730f6c9706e27af"
+  },
+  "gender": "female",
+  "category": "pants",
+  "style": 124,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513883730f6c9706e27b0"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 0,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5138d3730f6c9706e27b1"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 1,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513933730f6c9706e27b2"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 2,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513983730f6c9706e27b3"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 3,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5139e3730f6c9706e27b4"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 4,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513a13730f6c9706e27b5"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 5,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513a73730f6c9706e27b6"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 6,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513ac3730f6c9706e27b7"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 7,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513af3730f6c9706e27b8"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 8,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513b43730f6c9706e27b9"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 10,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513bb3730f6c9706e27ba"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 11,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513bf3730f6c9706e27bb"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 13,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513c73730f6c9706e27bc"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 14,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513cc3730f6c9706e27bd"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 15,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513cf3730f6c9706e27be"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 16,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513d33730f6c9706e27bf"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 17,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513d83730f6c9706e27c0"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 19,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513e13730f6c9706e27c1"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 20,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513e53730f6c9706e27c2"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 22,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513e93730f6c9706e27c3"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 23,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513f13730f6c9706e27c4"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 27,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513f63730f6c9706e27c5"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 28,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513fb3730f6c9706e27c6"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 29,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a513ff3730f6c9706e27c7"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 30,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514043730f6c9706e27c8"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 31,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514103730f6c9706e27c9"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 32,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514153730f6c9706e27ca"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 37,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5141c3730f6c9706e27cb"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 42,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514243730f6c9706e27cc"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 43,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514293730f6c9706e27cd"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 44,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5142f3730f6c9706e27ce"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 47,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5143a3730f6c9706e27cf"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 49,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5143e3730f6c9706e27d0"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 50,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514443730f6c9706e27d1"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 60,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514523730f6c9706e27d2"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 61,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514583730f6c9706e27d3"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 67,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5145d3730f6c9706e27d4"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 68,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514613730f6c9706e27d5"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 69,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514673730f6c9706e27d6"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 77,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5146b3730f6c9706e27d7"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 78,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514753730f6c9706e27d8"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 79,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5147a3730f6c9706e27d9"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 80,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514843730f6c9706e27da"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 81,
+  "price": 14500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5148a3730f6c9706e27db"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 96,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5148e3730f6c9706e27dc"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 97,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514953730f6c9706e27dd"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 98,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514993730f6c9706e27de"
+  },
+  "gender": "female",
+  "category": "shoes",
+  "style": 99,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514a43730f6c9706e27df"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 0,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514aa3730f6c9706e27e0"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 1,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514af3730f6c9706e27e1"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 2,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514b63730f6c9706e27e2"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 3,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514bb3730f6c9706e27e3"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 4,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514c23730f6c9706e27e4"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 6,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514c73730f6c9706e27e5"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 7,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514cd3730f6c9706e27e6"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 8,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514d03730f6c9706e27e7"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 9,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514d53730f6c9706e27e8"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 10,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514db3730f6c9706e27e9"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 11,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514e03730f6c9706e27ea"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 14,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514e53730f6c9706e27eb"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 16,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514eb3730f6c9706e27ec"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 17,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514f03730f6c9706e27ed"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 18,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514f53730f6c9706e27ee"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 19,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514fb3730f6c9706e27ef"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 20,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a514ff3730f6c9706e27f0"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 21,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a515043730f6c9706e27f1"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 22,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a515093730f6c9706e27f2"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 24,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5150d3730f6c9706e27f3"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 25,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a515293730f6c9706e27f4"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 30,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5152e3730f6c9706e27f5"
+  },
+  "gender": "female",
+  "category": "glasses",
+  "style": 31,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516bf3730f6c9706e2815"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 7,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516cc3730f6c9706e2817"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 11,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516d33730f6c9706e2818"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 12,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516d83730f6c9706e2819"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 15,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516db3730f6c9706e281a"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 17,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516e03730f6c9706e281b"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 20,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516e33730f6c9706e281c"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 21,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516e73730f6c9706e281d"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 22,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516eb3730f6c9706e281e"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 23,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516f43730f6c9706e281f"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 36,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516f93730f6c9706e2820"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 37,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a516ff3730f6c9706e2821"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 38,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517043730f6c9706e2822"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 39,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5170b3730f6c9706e2823"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 40,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5170f3730f6c9706e2824"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 41,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517133730f6c9706e2825"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 42,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5171a3730f6c9706e2826"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 53,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5171e3730f6c9706e2827"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 54,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517223730f6c9706e2828"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 55,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5172a3730f6c9706e2829"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 56,
+  "price": 35000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5172d3730f6c9706e282a"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 57,
+  "price": 35000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517343730f6c9706e282b"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 58,
+  "price": 45000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517383730f6c9706e282c"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 59,
+  "price": 45000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5173c3730f6c9706e282d"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 60,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517403730f6c9706e282e"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 61,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517453730f6c9706e282f"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 62,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5174b3730f6c9706e2830"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 64,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517523730f6c9706e2831"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 65,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517563730f6c9706e2832"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 66,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5175a3730f6c9706e2833"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 67,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5175f3730f6c9706e2834"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 68,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517663730f6c9706e2835"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 69,
+  "price": 45000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5176a3730f6c9706e2836"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 70,
+  "price": 45000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5176f3730f6c9706e2837"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 71,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517733730f6c9706e2838"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 72,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517783730f6c9706e2839"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 73,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5177c3730f6c9706e283a"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 82,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517833730f6c9706e283b"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 83,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517883730f6c9706e283c"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 85,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5178d3730f6c9706e283d"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 86,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517903730f6c9706e283e"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 87,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517973730f6c9706e283f"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 90,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5179b3730f6c9706e2840"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 92,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517a13730f6c9706e2841"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 93,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517a53730f6c9706e2842"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 94,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a517ad3730f6c9706e2843"
+  },
+  "gender": "female",
+  "category": "accessories",
+  "style": 99,
+  "price": 40000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5800278256bf704e62601"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 3,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5800d78256bf704e62602"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 4,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5801778256bf704e62603"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 6,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5802078256bf704e62604"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 7,
+  "price": 650,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5802878256bf704e62605"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 10,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5803278256bf704e62606"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 11,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5805778256bf704e6260a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 23,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5806378256bf704e6260b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 24,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5807178256bf704e6260c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 25,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5807a78256bf704e6260d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 27,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5808478256bf704e6260e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 28,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5809578256bf704e62610"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 37,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580a578256bf704e62612"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 45,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580ab78256bf704e62613"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 46,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580bb78256bf704e62614"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 57,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580c878256bf704e62615"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 58,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580d678256bf704e62616"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 59,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580dd78256bf704e62617"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 61,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580e378256bf704e62618"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 62,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a580f878256bf704e6261a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 68,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5810078256bf704e6261b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 69,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5811978256bf704e6261c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 70,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5814378256bf704e6261d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 72,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5814e78256bf704e6261e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 74,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5815578256bf704e6261f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 75,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5815c78256bf704e62620"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 76,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5816478256bf704e62621"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 77,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5817478256bf704e62622"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 78,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5818278256bf704e62623"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 79,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5818b78256bf704e62624"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 84,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5819178256bf704e62625"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 85,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5819678256bf704e62626"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 86,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581a778256bf704e62627"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 87,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581ad78256bf704e62628"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 88,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581bb78256bf704e62629"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 89,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581c278256bf704e6262a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 90,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581d978256bf704e6262b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 96,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581e478256bf704e6262c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 106,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581ee78256bf704e6262d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 107,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581f678256bf704e6262e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 108,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a581fd78256bf704e6262f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 110,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5820478256bf704e62630"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 111,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5821878256bf704e62631"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 112,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5821e78256bf704e62632"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 113,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5822678256bf704e62633"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 115,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5823d78256bf704e62634"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 116,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5824278256bf704e62635"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 118,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5824978256bf704e62636"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 119,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5825278256bf704e62637"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 120,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5825e78256bf704e62638"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 121,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5826578256bf704e62639"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 122,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5826d78256bf704e6263a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 124,
+  "price": 1250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5827578256bf704e6263b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 125,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5827b78256bf704e6263c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 126,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5828578256bf704e6263d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 129,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5828d78256bf704e6263e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 130,
+  "price": 1350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582a178256bf704e6263f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 134,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582a978256bf704e62640"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 136,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582b678256bf704e62641"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 138,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582bd78256bf704e62642"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 140,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582c478256bf704e62643"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 141,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582ca78256bf704e62644"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 142,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582e878256bf704e62646"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 145,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a582fa78256bf704e62647"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 147,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5830378256bf704e62648"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 148,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5831778256bf704e6264a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 151,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5832378256bf704e6264b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 153,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5833478256bf704e6264c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 154,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5834178256bf704e6264d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 156,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5834978256bf704e6264e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 157,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5835078256bf704e6264f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 159,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5835778256bf704e62650"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 160,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5836478256bf704e62651"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 161,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5837378256bf704e62652"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 163,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5838578256bf704e62654"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 167,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5838b78256bf704e62655"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 168,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5839278256bf704e62656"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 169,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5839b78256bf704e62657"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 171,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a583b178256bf704e62658"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 172,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a583c278256bf704e62659"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 174,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a583cf78256bf704e6265a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 176,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a583d778256bf704e6265b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 182,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a583ea78256bf704e6265c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 184,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a583f478256bf704e6265d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 185,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5840978256bf704e6265f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 188,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5840f78256bf704e62660"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 189,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5841778256bf704e62661"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 190,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5841e78256bf704e62662"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 191,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5842578256bf704e62663"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 192,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5842d78256bf704e62664"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 194,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5843478256bf704e62665"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 196,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5843b78256bf704e62666"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 198,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5844578256bf704e62667"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 200,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5844c78256bf704e62668"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 203,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5845778256bf704e62669"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 204,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5845f78256bf704e6266a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 218,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5846778256bf704e6266b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 229,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5847878256bf704e6266c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 240,
+  "price": 7000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5848d78256bf704e6266d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 244,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a584b278256bf704e6266e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 245,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a584b978256bf704e6266f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 249,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a584cb78256bf704e62670"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 251,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a584eb78256bf704e62671"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 254,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a584f578256bf704e62672"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 256,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a584fb78256bf704e62673"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 257,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5850678256bf704e62674"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 258,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5850d78256bf704e62675"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 259,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5851978256bf704e62676"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 262,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5852e78256bf704e62678"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 269,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5853a78256bf704e62679"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 270,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5854078256bf704e6267a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 272,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5854b78256bf704e6267b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 279,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5855978256bf704e6267c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 281,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5856878256bf704e6267d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 288,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5856f78256bf704e6267e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 296,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5858378256bf704e6267f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 298,
+  "price": 7000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5859b78256bf704e62680"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 300,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585a278256bf704e62681"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 304,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585c078256bf704e62683"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 305,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585cf78256bf704e62685"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 309,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585de78256bf704e62686"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 324,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585e878256bf704e62687"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 326,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585f178256bf704e62688"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 329,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a585f678256bf704e62689"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 330,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5860378256bf704e6268a"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 332,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5860c78256bf704e6268b"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 336,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5861278256bf704e6268c"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 338,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5861778256bf704e6268d"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 339,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5861f78256bf704e6268e"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 341,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5862a78256bf704e6268f"
+  },
+  "gender": "male",
+  "category": "jacket",
+  "style": 344,
+  "price": 9500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586a378256bf704e62690"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 0,
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586b578256bf704e62691"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 1,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586c278256bf704e62692"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 3,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586cf78256bf704e62693"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 4,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586d678256bf704e62694"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 5,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586e578256bf704e62695"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 6,
+  "price": 28000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a586ef78256bf704e62696"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 7,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5870678256bf704e62697"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 8,
+  "price": 28000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5870f78256bf704e62698"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 9,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5872078256bf704e62699"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 10,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5872978256bf704e6269a"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 11,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5873a78256bf704e6269b"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 12,
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5874f78256bf704e6269c"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 14,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5875a78256bf704e6269d"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 15,
+  "price": 17000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5876d78256bf704e6269e"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 16,
+  "price": 26000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5877678256bf704e6269f"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 17,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5878278256bf704e626a0"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 18,
+  "price": 14000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5879b78256bf704e626a1"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 19,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587a778256bf704e626a2"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 20,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587c178256bf704e626a3"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 33,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587cf78256bf704e626a4"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 31,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587d578256bf704e626a5"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 32,
+  "price": 28000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587e278256bf704e626a6"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 34,
+  "price": 35000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587eb78256bf704e626a7"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 35,
+  "price": 17000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a587f978256bf704e626a8"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 36,
+  "price": 23000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60a5881278256bf704e626a9"
+  },
+  "gender": "male",
+  "category": "watch",
+  "style": 37,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5c389249ac4a954cdeea"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 2,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5c459249ac4a954cdeeb"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 4,
+  "price": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5c539249ac4a954cdeec"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 5,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5c6c9249ac4a954cdeed"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 6,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5c799249ac4a954cdeee"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 7,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5c8e9249ac4a954cdeef"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 12,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5cb09249ac4a954cdef1"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 14,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ccd9249ac4a954cdef2"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 20,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5cd79249ac4a954cdef3"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 21,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ce29249ac4a954cdef4"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 22,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5cea9249ac4a954cdef5"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 23,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5cf29249ac4a954cdef6"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 24,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5cfb9249ac4a954cdef7"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 25,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d049249ac4a954cdef8"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 26,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d0a9249ac4a954cdef9"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 27,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d229249ac4a954cdefc"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 29,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d289249ac4a954cdefd"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 30,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d3d9249ac4a954cdeff"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 32,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d539249ac4a954cdf01"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 34,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d659249ac4a954cdf02"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 35,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d759249ac4a954cdf03"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 36,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d7c9249ac4a954cdf04"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 37,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d869249ac4a954cdf05"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 40,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d8e9249ac4a954cdf06"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 41,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d939249ac4a954cdf07"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 42,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5d9c9249ac4a954cdf08"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 43,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5da59249ac4a954cdf09"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 44,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5daa9249ac4a954cdf0a"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 45,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5daf9249ac4a954cdf0b"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 54,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5db69249ac4a954cdf0c"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 55,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5dbf9249ac4a954cdf0d"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 56,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5dc59249ac4a954cdf0e"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 64,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5dd59249ac4a954cdf0f"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 65,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ddc9249ac4a954cdf10"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 66,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5deb9249ac4a954cdf11"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 83,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5df29249ac4a954cdf12"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 94,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5dfc9249ac4a954cdf13"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 95,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e049249ac4a954cdf14"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 96,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e0e9249ac4a954cdf15"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 99,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e159249ac4a954cdf16"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 100,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e1c9249ac4a954cdf17"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 101,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e359249ac4a954cdf18"
+  },
+  "gender": "male",
+  "category": "hat",
+  "style": 110,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e5b9249ac4a954cdf1a"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 1,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e669249ac4a954cdf1b"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 5,
+  "price": 250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e719249ac4a954cdf1c"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 8,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e849249ac4a954cdf1d"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 9,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e8b9249ac4a954cdf1e"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 12,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e909249ac4a954cdf1f"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 13,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5e959249ac4a954cdf20"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 14,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ea49249ac4a954cdf22"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 17,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5eae9249ac4a954cdf23"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 18,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ec19249ac4a954cdf24"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 22,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ec89249ac4a954cdf25"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 26,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5eda9249ac4a954cdf28"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 38,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5efb9249ac4a954cdf2a"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 41,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f039249ac4a954cdf2b"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 42,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f089249ac4a954cdf2c"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 44,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f0e9249ac4a954cdf2d"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 47,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f179249ac4a954cdf2e"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 71,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f539249ac4a954cdf2f"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 73,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f5f9249ac4a954cdf31"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 81,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f6d9249ac4a954cdf32"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 82,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f729249ac4a954cdf33"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 83,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f789249ac4a954cdf34"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 92,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f849249ac4a954cdf36"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 95,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f8a9249ac4a954cdf37"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 105,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f8f9249ac4a954cdf38"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 117,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5f989249ac4a954cdf39"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 123,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fa19249ac4a954cdf3a"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 128,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fa69249ac4a954cdf3b"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 131,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fad9249ac4a954cdf3c"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 133,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fbc9249ac4a954cdf3d"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 135,
+  "price": 4500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fc29249ac4a954cdf3e"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 139,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fc99249ac4a954cdf3f"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 144,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5fe39249ac4a954cdf41"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 164,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad5ff09249ac4a954cdf43"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 225,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60059249ac4a954cdf44"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 226,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad600e9249ac4a954cdf45"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 235,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60179249ac4a954cdf46"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 241,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60219249ac4a954cdf47"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 250,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60319249ac4a954cdf48"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 260,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad603b9249ac4a954cdf49"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 271,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60469249ac4a954cdf4a"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 299,
+  "price": 4800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad604f9249ac4a954cdf4b"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 313,
+  "price": 4500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60579249ac4a954cdf4c"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 321,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60629249ac4a954cdf4d"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 323,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad608a9249ac4a954cdf4f"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 334,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60a29249ac4a954cdf50"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 335,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60ad9249ac4a954cdf51"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 337,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60bc9249ac4a954cdf52"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 345,
+  "price": 1250,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60c89249ac4a954cdf53"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 348,
+  "price": 1130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60d29249ac4a954cdf54"
+  },
+  "gender": "male",
+  "category": "shirt",
+  "style": 350,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad60f99249ac4a954cdf55"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 0,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad610e9249ac4a954cdf56"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 1,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad611c9249ac4a954cdf57"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 3,
+  "price": 450,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61229249ac4a954cdf58"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 4,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61279249ac4a954cdf59"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 5,
+  "price": 200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61329249ac4a954cdf5a"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 6,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61399249ac4a954cdf5b"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 7,
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad613f9249ac4a954cdf5c"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 8,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61469249ac4a954cdf5d"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 9,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad614f9249ac4a954cdf5e"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 10,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61549249ac4a954cdf5f"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 12,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad615a9249ac4a954cdf60"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 13,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61619249ac4a954cdf61"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 14,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61679249ac4a954cdf62"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 15,
+  "price": 550,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad616c9249ac4a954cdf63"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 16,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61739249ac4a954cdf64"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 17,
+  "price": 750,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61799249ac4a954cdf65"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 18,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61819249ac4a954cdf66"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 19,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61889249ac4a954cdf67"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 20,
+  "price": 650,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61939249ac4a954cdf68"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 22,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61999249ac4a954cdf69"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 23,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61a29249ac4a954cdf6a"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 24,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61a79249ac4a954cdf6b"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 25,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61ad9249ac4a954cdf6c"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 26,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61b59249ac4a954cdf6d"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 27,
+  "price": 1150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61bf9249ac4a954cdf6e"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 28,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61c59249ac4a954cdf6f"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 29,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61cd9249ac4a954cdf70"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 32,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61d29249ac4a954cdf71"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 35,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61e79249ac4a954cdf73"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 42,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61ef9249ac4a954cdf74"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 43,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61f99249ac4a954cdf75"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 45,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad61ff9249ac4a954cdf76"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 48,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62049249ac4a954cdf77"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 49,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad620e9249ac4a954cdf78"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 50,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62149249ac4a954cdf79"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 51,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62189249ac4a954cdf7a"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 52,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad621f9249ac4a954cdf7b"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 53,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62249249ac4a954cdf7c"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 54,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62299249ac4a954cdf7d"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 55,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad622f9249ac4a954cdf7e"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 58,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62359249ac4a954cdf7f"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 60,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad623a9249ac4a954cdf80"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 61,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad623f9249ac4a954cdf81"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 62,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62459249ac4a954cdf82"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 63,
+  "price": 700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad624d9249ac4a954cdf83"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 64,
+  "price": 650,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62539249ac4a954cdf84"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 65,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad625f9249ac4a954cdf85"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 69,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62679249ac4a954cdf86"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 71,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad626b9249ac4a954cdf87"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 73,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62729249ac4a954cdf88"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 75,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62789249ac4a954cdf89"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 76,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad627f9249ac4a954cdf8a"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 78,
+  "price": 1700,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62889249ac4a954cdf8b"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 79,
+  "price": 1900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad628e9249ac4a954cdf8c"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 80,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62929249ac4a954cdf8d"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 81,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62999249ac4a954cdf8e"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 82,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad629f9249ac4a954cdf8f"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 96,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62af9249ac4a954cdf90"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 98,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62c19249ac4a954cdf91"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 99,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62cd9249ac4a954cdf92"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 100,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62d29249ac4a954cdf93"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 102,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62d89249ac4a954cdf94"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 103,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62df9249ac4a954cdf95"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 104,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62e49249ac4a954cdf96"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 105,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62eb9249ac4a954cdf97"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 116,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad62fb9249ac4a954cdf98"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 117,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad630e9249ac4a954cdf99"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 118,
+  "price": 4500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63179249ac4a954cdf9a"
+  },
+  "gender": "male",
+  "category": "pants",
+  "style": 128,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63289249ac4a954cdf9b"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 1,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63379249ac4a954cdf9c"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 3,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad633c9249ac4a954cdf9d"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 4,
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63429249ac4a954cdf9e"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 5,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63489249ac4a954cdf9f"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 7,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63569249ac4a954cdfa0"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 8,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad635c9249ac4a954cdfa1"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 9,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63629249ac4a954cdfa2"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 10,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad636f9249ac4a954cdfa3"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 12,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63749249ac4a954cdfa4"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 14,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63799249ac4a954cdfa5"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 15,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad637e9249ac4a954cdfa6"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 16,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63899249ac4a954cdfa7"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 17,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad638f9249ac4a954cdfa8"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 18,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63969249ac4a954cdfa9"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 19,
+  "price": 950,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad639f9249ac4a954cdfaa"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 20,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63ac9249ac4a954cdfab"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 21,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63b29249ac4a954cdfac"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 22,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63b99249ac4a954cdfad"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 23,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63be9249ac4a954cdfae"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 26,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63ce9249ac4a954cdfaf"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 28,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63d79249ac4a954cdfb0"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 29,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63dc9249ac4a954cdfb1"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 30,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63e89249ac4a954cdfb2"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 31,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63f09249ac4a954cdfb3"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 32,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad63f79249ac4a954cdfb4"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 36,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64009249ac4a954cdfb5"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 38,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64089249ac4a954cdfb6"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 40,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64109249ac4a954cdfb7"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 41,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64169249ac4a954cdfb8"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 42,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad641c9249ac4a954cdfb9"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 43,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64229249ac4a954cdfba"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 45,
+  "price": 1200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64289249ac4a954cdfbb"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 46,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64329249ac4a954cdfbc"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 48,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64389249ac4a954cdfbd"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 49,
+  "price": 850,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad643d9249ac4a954cdfbe"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 51,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64439249ac4a954cdfbf"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 52,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64499249ac4a954cdfc0"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 54,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad644f9249ac4a954cdfc1"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 56,
+  "price": 1300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad645c9249ac4a954cdfc2"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 57,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64639249ac4a954cdfc3"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 58,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad646b9249ac4a954cdfc4"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 64,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64709249ac4a954cdfc5"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 65,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64769249ac4a954cdfc6"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 66,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad647d9249ac4a954cdfc7"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 69,
+  "price": 1400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64829249ac4a954cdfc8"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 73,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad648c9249ac4a954cdfc9"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 74,
+  "price": 1550,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64959249ac4a954cdfca"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 75,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad649b9249ac4a954cdfcb"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 76,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64ae9249ac4a954cdfcc"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 77,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64b79249ac4a954cdfcd"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 78,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64bd9249ac4a954cdfce"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 89,
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64c49249ac4a954cdfcf"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 92,
+  "price": 4500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64d59249ac4a954cdfd0"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 93,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64da9249ac4a954cdfd1"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 94,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad64e49249ac4a954cdfd2"
+  },
+  "gender": "male",
+  "category": "shoes",
+  "style": 95,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65139249ac4a954cdfd3"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 2,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65199249ac4a954cdfd4"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 3,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad651e9249ac4a954cdfd5"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 4,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65259249ac4a954cdfd6"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 5,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad652b9249ac4a954cdfd7"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 7,
+  "price": 900,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65319249ac4a954cdfd8"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 8,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65379249ac4a954cdfd9"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 9,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad653c9249ac4a954cdfda"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 10,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65419249ac4a954cdfdb"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 12,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65479249ac4a954cdfdc"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 13,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad654e9249ac4a954cdfdd"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 15,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65529249ac4a954cdfde"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 16,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad655d9249ac4a954cdfdf"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 17,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65679249ac4a954cdfe0"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 18,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad656e9249ac4a954cdfe1"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 19,
+  "price": 5000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad657d9249ac4a954cdfe2"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 20,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65839249ac4a954cdfe3"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 21,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65899249ac4a954cdfe4"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 23,
+  "price": 1800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65939249ac4a954cdfe5"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 28,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad659a9249ac4a954cdfe6"
+  },
+  "gender": "male",
+  "category": "glasses",
+  "style": 29,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65c99249ac4a954cdfe7"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 10,
+  "price": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65db9249ac4a954cdfe8"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 12,
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65e39249ac4a954cdfe9"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 18,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65e89249ac4a954cdfea"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 19,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65ef9249ac4a954cdfeb"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 21,
+  "price": 350,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65f59249ac4a954cdfec"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 22,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad65fe9249ac4a954cdfed"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 23,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66069249ac4a954cdfee"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 30,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66159249ac4a954cdfef"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 31,
+  "price": 1000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad662c9249ac4a954cdff0"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 32,
+  "price": 450,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66329249ac4a954cdff1"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 34,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66379249ac4a954cdff2"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 35,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66449249ac4a954cdff3"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 37,
+  "price": 370,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad664a9249ac4a954cdff4"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 38,
+  "price": 400,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad665a9249ac4a954cdff6"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 49,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad666c9249ac4a954cdff7"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 51,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66749249ac4a954cdff8"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 52,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad667b9249ac4a954cdff9"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 53,
+  "price": 25000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66819249ac4a954cdffc"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 54,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad668c9249ac4a954cdffd"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 55,
+  "price": 26000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad669b9249ac4a954cdffe"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 85,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66a09249ac4a954cdfff"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 86,
+  "price": 19000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66a59249ac4a954ce000"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 87,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66ac9249ac4a954ce001"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 88,
+  "price": 22000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66b39249ac4a954ce002"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 89,
+  "price": 24000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66ba9249ac4a954ce003"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 90,
+  "price": 28000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66c49249ac4a954ce004"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 91,
+  "price": 30000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66d29249ac4a954ce005"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 92,
+  "price": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66dd9249ac4a954ce006"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 93,
+  "price": 18000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66e39249ac4a954ce007"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 94,
+  "price": 15000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66ee9249ac4a954ce008"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 111,
+  "price": 13000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66f59249ac4a954ce009"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 112,
+  "price": 800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad66fc9249ac4a954ce00a"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 114,
+  "price": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad67049249ac4a954ce00b"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 117,
+  "price": 500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad67099249ac4a954ce00c"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 118,
+  "price": 1100,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad671f9249ac4a954ce00e"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 122,
+  "price": 32000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad672e9249ac4a954ce00f"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 123,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad67349249ac4a954ce010"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 124,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ad673a9249ac4a954ce011"
+  },
+  "gender": "male",
+  "category": "accessories",
+  "style": 131,
+  "price": 40000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33049"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 2,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3304a"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 4,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3304b"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 6,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3304c"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 14,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3304d"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 15,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3304e"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 16,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3304f"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 30,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33050"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 35,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33051"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 37,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33052"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 50,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33053"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 51,
+  "price": 2200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33054"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 53,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33055"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 54,
+  "price": 3500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33056"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 57,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33057"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 58,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33058"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 99,
+  "price": 6000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33059"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 102,
+  "price": 20000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3305a"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 111,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3305b"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 113,
+  "price": 3200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3305c"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 114,
+  "price": 4200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3305d"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 115,
+  "price": 4200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3305e"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 116,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3305f"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 117,
+  "price": 3000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33060"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 118,
+  "price": 3800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33061"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 119,
+  "price": 3800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33062"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 124,
+  "price": 5500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33063"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 133,
+  "price": 14500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33064"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 169,
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33065"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 183,
+  "price": 5500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33066"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 186,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33067"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 187,
+  "price": 4500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33068"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 11,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33069"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 12,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3306a"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 49,
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3306b"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 43,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3306c"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 44,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3306d"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 45,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3306e"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 47,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3306f"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 48,
+  "price": 10000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33070"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 13,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33071"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 39,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33072"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 40,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33073"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 41,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33074"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 42,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33075"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 61,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33076"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 62,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33077"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 63,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33078"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 64,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33079"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 67,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3307a"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 68,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3307b"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 69,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3307c"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 71,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3307d"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 136,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3307e"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 138,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3307f"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 140,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33080"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 155,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33081"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 160,
+  "price": 4000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33082"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 2,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33083"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 3,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33084"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 5,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33085"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 7,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33086"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 17,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33087"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 18,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33088"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 19,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33089"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 20,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3308a"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 21,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3308b"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 22,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3308c"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 23,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3308d"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 24,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3308e"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 25,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3308f"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 26,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33090"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 59,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33091"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 60,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33092"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 96,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33093"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 97,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33094"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 98,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33095"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 100,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33096"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 147,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33097"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 149,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33098"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 150,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd33099"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 151,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3309a"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 152,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3309b"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 153,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3309c"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 181,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3309d"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 182,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3309e"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 184,
+  "price": 2800,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd3309f"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 8,
+  "price": 9500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a0"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 9,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a1"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 10,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a2"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 31,
+  "price": 9000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a3"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 33,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a4"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 76,
+  "price": 8000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a5"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 77,
+  "price": 8500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bb8d9d2050db0a2cd330a6"
+  },
+  "gender": "male",
+  "category": "mask",
+  "style": 87,
+  "price": 8500,
+  "__v": 0
+}]

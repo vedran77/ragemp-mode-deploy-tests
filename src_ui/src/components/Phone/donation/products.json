@@ -1,0 +1,42 @@
+{
+  "10k": {
+    "title": "10 000$",
+    "description": "Dodaje 10,000$ na tvoj bankovni račun",
+    "icon": "cash"
+  },
+  "50k": {
+    "title": "50 000$",
+    "description": "Dodaje 50,000$ na tvoj bankovni račun",
+    "icon": "cash"
+  },
+  "200k": {
+    "title": "200 000$",
+    "description": "Dodaje 200,000$ na tvoj bankovni račun",
+    "icon": "cash"
+  },
+  "500k": {
+    "title": "500 000$",
+    "description": "Dodaje 500,000$ na tvoj bankovni račun",
+    "icon": "cash"
+  },
+  "2kk": {
+    "title": "Kofer s novcem",
+    "description": "Dodaje 2 000 000$ na tvoj bankovni račun",
+    "icon": "money_case"
+  },
+  "10kk": {
+    "title": "Kofer s novcem",
+    "description": "Dodaje 10 000 000$ na tvoj bakovni račun",
+    "icon": "safe"
+  },
+  "vehicle_slot": {
+    "title": "Slot za vozilo",
+    "description": "Omogućuje vam dodatni slot za vozilo",
+    "icon": "car"
+  },
+  "military_id": {
+    "title": "Vojna iskaznica",
+    "description": "Daje mogućnost izbjegovanja vojnog roka i dobivanja dokumenta",
+    "icon": "military_id"
+  }
+}

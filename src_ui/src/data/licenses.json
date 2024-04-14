@@ -1,0 +1,14 @@
+{
+  "car": "B Kategorija",
+  "motorcycle": "A Kategorija",
+  "truck": "C Kategorija",
+  "weapon": "Dozvola za nošenje oružja",
+  "house": "Vlasnički list",
+  "business": "Dozvola za biznis",
+  "med_physical": "Fiz. zdravlje",
+  "med_mental": "Psih. zdravlje",
+  "military": "Vojni list",
+  "fishing": "Dozvola za ribolov",
+  "boat": "Dozvola za brod",
+  "air": "Dozvola za letenje"
+}

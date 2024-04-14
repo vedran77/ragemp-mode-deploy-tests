@@ -1,0 +1,333 @@
+.ares_hud {
+	p,
+	h4 {
+		margin: 0;
+	}
+
+	.ares_hud_top_right {
+		position: absolute;
+		right: 0;
+		top: 0;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		width: 13vw;
+		align-items: flex-end;
+		font-family: 'Roboto';
+		padding-right: 1vw;
+
+		.mic {
+			margin-top: 1vw;
+			width: 2vw;
+			height: 2vw;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background: rgb(1, 1, 1);
+			background: radial-gradient(circle, rgba(1, 1, 1, 0.5466561624649859) 0%, #26272a 100%);
+			background: linear-gradient(
+				0deg,
+				rgba(173, 255, 0, 0.97) 1%,
+				rgba(17, 25, 40, 0.75) 16.5%,
+				rgba(17, 25, 40, 0.07) 100%
+			);
+			border-radius: 5px;
+			position: relative;
+
+			&_helper {
+				position: absolute;
+				bottom: 0px;
+				right: 0px;
+				width: 0.5vw;
+				height: 0.5vw;
+				background: white;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+
+				p {
+					font-size: 0.5vw;
+					color: black;
+				}
+			}
+		}
+
+		.logo {
+			margin-top: 2vh;
+			width: 8vw;
+		}
+
+		.two_fields_row {
+			display: flex;
+			width: 100%;
+			margin-top: 5px;
+			margin-bottom: 5px;
+			justify-content: space-between;
+
+			&_text_icon {
+				width: 1.7vw;
+				padding-right: 4px;
+			}
+
+			&_field {
+				width: 100%;
+				display: flex;
+			}
+
+			p {
+				font-size: 0.6vw;
+				font-weight: 300;
+			}
+
+			h4 {
+				font-weight: 700;
+				font-size: 0.8vw;
+			}
+		}
+
+		.weapon {
+			width: 100%;
+			max-width: 70%;
+			height: 100%;
+			max-height: 5.185vh;
+			object-fit: contain;
+
+			&_ammo {
+				font-size: 1vw;
+			}
+		}
+	}
+
+	.ares_hud_bottom {
+		position: absolute;
+		left: 20vw;
+		bottom: 2vw;
+	}
+
+	.green_zone_field {
+		display: flex;
+		width: 8vw;
+		height: 3vh;
+		// background: rgb(196, 255, 7);
+		// background: radial-gradient(
+		// 	circle,
+		// 	rgba(196, 255, 7, 1) 0%,
+		// 	rgba(196, 255, 7, 0.6026785714285714) 100%
+		// );
+		position: relative;
+		justify-content: center;
+		align-items: center;
+		margin-left: 0.5vw;
+
+		&_icon {
+			position: absolute;
+			left: -0.5vw;
+			top: -1vh;
+			width: 2vw;
+		}
+
+		p {
+			text-transform: uppercase;
+			font-size: 1vw;
+			font-weight: 500;
+		}
+	}
+
+	&_player_stats {
+		display: flex;
+		justify-content: space-between;
+		width: 20vw;
+	}
+
+	.ares_bottom_field {
+		margin-top: 1vw;
+		display: flex;
+		align-items: center;
+
+		img {
+			margin-right: 0.5vw;
+		}
+
+		p {
+			font-size: 0.8vw;
+			font-weight: 100;
+		}
+
+		h4 {
+			font-size: 1vw;
+			text-transform: uppercase;
+		}
+	}
+
+	.ares_hud_left {
+		position: absolute;
+		left: 3vw;
+		height: 100vh;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	.binding {
+		margin-top: 0.5vw;
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+
+		h4 {
+			font-size: 0.6vw;
+			padding: 0;
+			padding-left: 1vw;
+			font-weight: 500;
+			text-transform: uppercase;
+		}
+	}
+
+	.key_bind {
+		width: 1.5vw;
+		height: 1.5vw;
+		background: #c4ff07;
+		background: radial-gradient(circle, rgba(196, 255, 7, 1) 0%, rgba(196, 255, 7, 0.6026785714285714) 100%);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		p {
+			font-size: 0.8vw;
+		}
+	}
+
+	&_speedo {
+		position: absolute;
+		right: 3vw;
+		bottom: 3vw;
+		display: flex;
+		gap: 0.9vw;
+	}
+
+	.speed {
+		display: flex;
+	}
+
+	.speedo_char p {
+		font-size: 3.5vw;
+		line-height: 3.5vw;
+		font-weight: 700;
+		color: #fff;
+	}
+
+	.speedo_label {
+		text-align: center;
+		margin-top: -0.5vh;
+		text-transform: uppercase;
+	}
+
+	.speedo_icon {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		width: 1.5vw;
+		height: 1.5vw;
+		padding: 20%;
+		background: #282828;
+
+		& > * {
+			width: 100%;
+			height: 100%;
+		}
+	}
+
+	.speedo_right {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5vw;
+	}
+
+	.fuel {
+		width: 1.5vw;
+		height: 7.5vh;
+		background: #282828;
+		display: flex;
+		flex-direction: column;
+
+		.fuel_bar {
+			display: flex;
+			gap: 0.3vw;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		.fuel_bar_item {
+			width: 1vw;
+			height: 0.3vh;
+			border-radius: 10vh;
+			transform: rotate(-20deg);
+			background: #fff;
+		}
+
+		.fuel_bar_green {
+			background: #c4ff07;
+		}
+	}
+
+	.speedo_icons {
+		display: flex;
+		gap: 0.5vw;
+
+		.speedo_left {
+			gap: 0.5vw;
+			display: flex;
+			flex-direction: column;
+		}
+	}
+
+	.death-log {
+		position: absolute;
+		right: 0;
+		bottom: 45%;
+		width: 30%;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-end;
+		justify-content: flex-end;
+		padding: 1vw;
+		font-family: 'Roboto', sans-serif;
+		gap: 0.2vw;
+
+		.log {
+			display: flex;
+			flex-direction: row;
+			gap: inherit;
+
+			.weapon {
+				width: 2vw;
+
+				img {
+					width: 100%;
+					height: auto;
+					max-height: 70%;
+					object-fit: contain;
+				}
+			}
+
+			& > div {
+				background-color: rgba(17, 25, 40, 0.8);
+				padding: 0.1vw 0.5vw;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				font-size: 0.7vw;
+
+				&.killer {
+					background: linear-gradient(270deg, rgba(17, 25, 40, 0.75) 0%, rgba(17, 25, 40, 0.2) 100%);
+					border-radius: 5px 0 0 5px;
+				}
+
+				&.target {
+					background: linear-gradient(90deg, rgba(17, 25, 40, 0.75) 0%, rgba(17, 25, 40, 0.2) 100%);
+					border-radius: 0 5px 5px 0;
+				}
+			}
+		}
+	}
+}

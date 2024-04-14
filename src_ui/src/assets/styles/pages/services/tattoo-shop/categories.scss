@@ -1,0 +1,32 @@
+.tattoo-shop_categories {
+  margin-bottom: 0.5%;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+
+  &-item {
+    width: 3vw;
+    height: 3vw;
+    overflow: hidden;
+    border-radius: 0.5vw;
+    background: linear-gradient(30deg, #000 0%, #262626 100%);
+    transition: filter 0.2s ease;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+
+    &:hover {
+      background: linear-gradient(30deg, #375600 0%, $gh-green 100%);
+    }
+
+    &.active {
+      background: linear-gradient(30deg, #375600 0%, $gh-green 100%);
+    }
+
+    img {
+      margin: 0 auto;
+      display: block;
+      width: 2vw;
+      height: 100%;
+      filter: invert(1);
+    }
+  }
+}

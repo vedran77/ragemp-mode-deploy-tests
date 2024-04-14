@@ -1,0 +1,1806 @@
+{
+	"stand": [
+		{
+			"dict": "amb@world_human_cop_idles@male@idle_b",
+			"name": "idle_d",
+			"flag": 1,
+			"speed": 8,
+			"label": "Kopa"
+		},
+		{
+			"dict": "switch@franklin@gang_taunt_p5",
+			"name": "fras_ig_6_p5_loop_g2",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke1"
+		},
+		{
+			"dict": "amb@world_human_hang_out_street@female_arms_crossed@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke2"
+		},
+		{
+			"dict": "low_fun_mcs1-3",
+			"name": "mp_m_g_vagfun_01^6_dual-3",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke3"
+		},
+		{
+			"dict": "rcmme_amanda1",
+			"name": "stand_loop_cop",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke4"
+		},
+		{
+			"dict": "amb@world_human_cop_idles@female@idle_b",
+			"name": "idle_e",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke5"
+		},
+		{
+			"dict": "amb@world_human_hang_out_street@female_arms_crossed@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke6"
+		},
+		{
+			"dict": "anim@amb@business@bgen@bgen_no_work@",
+			"name": "stand_phone_phoneputdown_sleeping_nowork",
+			"speed": 39,
+			"flag": 33,
+			"label": "Prekrsti ruke i gleda u pod"
+		},
+		{
+			"dict": "anim@amb@casino@hangout@ped_male@stand@02b@idles",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Razmišlja"
+		},
+		{
+			"dict": "martin_1_int-0",
+			"name": "cs_martinmadrazo_dual-0",
+			"speed": 39,
+			"flag": 33,
+			"label": "Raširi ruke"
+		},
+		{
+			"dict": "random@street_race",
+			"name": "_car_a_flirt_girl",
+			"speed": 39,
+			"flag": 33,
+			"label": "Sagnuti se"
+		},
+		{
+			"dict": "rcmme_tracey1",
+			"name": "nervous_loop",
+			"speed": 39,
+			"flag": 33,
+			"label": "Udara nogom nervozno"
+		},
+		{
+			"dict": "missfam1_yachtbattleonyacht02_",
+			"name": "onboom_twohand_hang_idle",
+			"speed": 39,
+			"flag": 33,
+			"label": "Drži se za nešto"
+		},
+		{
+			"dict": "mini@strip_club@idles@stripper",
+			"name": "stripper_idle_01",
+			"flag": 1,
+			"speed": 8,
+			"label": "Seksi"
+		},
+		{
+			"dict": "missmic_3_ext@leadin@mic_3_ext",
+			"name": "_leadin_trevor",
+			"flag": 1,
+			"speed": 8,
+			"label": "Ruke na pojasu1"
+		},
+		{
+			"dict": "timetable@amanda@ig_9",
+			"name": "ig_9_base_amanda",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ruke na pojasu2"
+		},
+		{
+			"dict": "rcmpaparazzo_3big_1",
+			"name": "_action_guard_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ruke na pojasu2"
+		},
+		{
+			"dict": "mp_player_int_uppersalute",
+			"name": "mp_player_int_salute",
+			"speed": 49,
+			"flag": 33,
+			"label": "Salutira"
+		},
+		{
+			"dict": "rcmbarry",
+			"name": "base",
+			"flag": 1,
+			"speed": 8,
+			"label": "Na patos"
+		},
+		{
+			"dict": "misstvrram_5",
+			"name": "marines_idle_a",
+			"flag": 1,
+			"speed": 8,
+			"label": "Na koljena"
+		},
+		{
+			"dict": "misstrevor1",
+			"name": "ortega_outro_loop_ort",
+			"speed": 1,
+			"flag": 33,
+			"label": "Kleči"
+		},
+		{
+			"dict": "random@arrests@busted",
+			"name": "idle_c",
+			"speed": 49,
+			"flag": 33,
+			"label": "Kleči predaje se1"
+		},
+		{
+			"dict": "random@arrests",
+			"name": "kneeling_arrest_idle",
+			"speed": 39,
+			"flag": 33,
+			"label": "Kleči predaje se2"
+		},
+		{
+			"dict": "missprologueig_2",
+			"name": "idle_on_floor_malehostage02",
+			"speed": 39,
+			"flag": 33,
+			"label": "Kleči predaje se3"
+		},
+		{
+			"dict": "anim@move_hostages@male",
+			"name": "male_idle",
+			"speed": 39,
+			"flag": 48,
+			"label": "Ruke u zrak",
+			"command": "hup2"
+		},
+		{
+			"dict": "mp_am_hold_up",
+			"name": "handsup_base",
+			"speed": 39,
+			"flag": 48,
+			"label": "Ruke u zrak2",
+			"command": "hup"
+		},
+		{
+			"dict": "anim@miss@low@fin@vagos@",
+			"name": "idle_ped06",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ruke iza leđa1"
+		},
+		{
+			"dict": "missmurder",
+			"name": "idle",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ruke iza leđa2"
+		},
+		{
+			"dict": "missheist_jewel@hacking",
+			"name": "hack_loop",
+			"speed": 49,
+			"flag": 33,
+			"label": "Stoji i kuca po tipkovnici"
+		},
+		{
+			"dict": "anim@heists@box_carry@",
+			"name": "idle",
+			"speed": 49,
+			"flag": 33,
+			"label": "Nosi u rukama"
+		},
+		{
+			"dict": "mp_intro_seq@",
+			"name": "mp_mech_fix",
+			"speed": 49,
+			"flag": 33,
+			"label": "Popravlja auto"
+		},
+		{
+			"dict": "rcmnigel1aig_1",
+			"name": "base_02_willie",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se1"
+		},
+		{
+			"dict": "amb@world_human_leaning@male@wall@back@foot_up@idle_a",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se2"
+		},
+		{
+			"dict": "anim@amb@business@bgen@bgen_no_work@",
+			"name": "stand_phone_phoneputdown_idle_nowork",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se3"
+		},
+		{
+			"dict": "anim@amb@clubhouse@bar@bartender@",
+			"name": "base_bartender",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se4"
+		},
+		{
+			"dict": "amb@lo_res_idles@",
+			"name": "world_human_lean_male_hands_together_lo_res_base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se i stavi ruku preko ruke"
+		},
+		{
+			"dict": "random@hitch_lift",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se i stavi ruku ispod druge ruke"
+		},
+		{
+			"dict": "amb@lo_res_idles@",
+			"name": "world_human_lean_female_holding_elbow_lo_res_base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Nasloni se i primi se rukom za drugu ruku"
+		},
+		{
+			"dict": "anim@arena@celeb@flat@solo@no_props@",
+			"name": "jump_d_player_a",
+			"speed": 0,
+			"flag": 33,
+			"label": "Skok u zrak veselo"
+		},
+		{
+			"dict": "avoidsavoids_b_v05",
+			"name": "frback_tofront",
+			"speed": 0,
+			"flag": 33,
+			"label": "Skok i okret u zraku"
+		},
+		{
+			"dict": "anim@mp_freemode_return@f@idle",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Gasi cigaretu nogom"
+		},
+		{
+			"dict": "amb@code_human_in_bus_passenger_idles@male@sit@idle_a",
+			"name": "idle_c",
+			"speed": 1,
+			"flag": 33,
+			"label": "Nagni se na ogradu"
+		},
+		{
+			"dict": "random@street_race",
+			"name": "_car_a_flirt_girl",
+			"flag": 1,
+			"speed": 8,
+			"label": "Plješće usporeno"
+		},
+		{
+			"dict": "anim@mp_player_intincarslow_clapbodhi@ds@",
+			"name": "idle_a",
+			"speed": 49,
+			"flag": 33,
+			"label": "Udara dlan o dlan"
+		},
+		{
+			"dict": "rcmextreme3",
+			"name": "idle",
+			"flag": 1,
+			"speed": 8,
+			"label": "Čuči1"
+		},
+		{
+			"dict": "missheistdockssetup1ig_10@base",
+			"name": "talk_pipe_base_worker1",
+			"speed": 1,
+			"flag": 33,
+			"label": "Čuči2"
+		},
+		{
+			"dict": "amb@medic@standing@kneel@base",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Čuči3"
+		},
+		{
+			"dict": "amb@code_human_cower@male@react_cowering",
+			"name": "base_front",
+			"speed": 1,
+			"flag": 33,
+			"label": "Čuči uplašeno"
+		},
+		{
+			"dict": "anim@heists@fleeca_bank@hostages@ped_d@",
+			"name": "flinch_loop",
+			"speed": 39,
+			"flag": 33,
+			"label": "Uplašeno1"
+		},
+		{
+			"dict": "anim@heists@ornate_bank@hostages@ped_g@",
+			"name": "flinch_loop",
+			"speed": 39,
+			"flag": 33,
+			"label": "Uplašeno2"
+		},
+		{
+			"dict": "anim@mp_player_intuppernose_pick",
+			"name": "idle_a",
+			"flag": 1,
+			"speed": 8,
+			"label": "Cackanje nosa"
+		},
+		{
+			"dict": "anim@amb@business@cfm@cfm_machine_no_work@",
+			"name": "transition_sleep_v1_operator",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi1"
+		},
+		{
+			"dict": "anim@amb@business@cfid@cfid_desk_no_work_bgen_chair_no_work@",
+			"name": "leg_smacking_lazyworker",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi2"
+		},
+		{
+			"dict": "anim@amb@business@cfid@cfid_desk_no_work_bgen_chair_no_work@",
+			"name": "look_around_v1_lazyworkerfemale",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi3"
+		},
+		{
+			"dict": "anim@amb@office@boardroom@boss@male@",
+			"name": "idle_c",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi4"
+		},
+		{
+			"dict": "switch@michael@sitting",
+			"name": "idle",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi5"
+		},
+		{
+			"dict": "random@robbery",
+			"name": "sit_down_idle_01",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi6"
+		},
+		{
+			"dict": "anim@amb@clubhouse@boss@female@",
+			"name": "idle_a",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi7"
+		},
+		{
+			"dict": "anim@amb@clubhouse@boss@female@",
+			"name": "idle_b",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi8"
+		},
+		{
+			"dict": "anim@amb@clubhouse@boss@female@",
+			"name": "idle_c",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi9"
+		},
+		{
+			"dict": "timetable@michael@on_chairbase",
+			"name": "on_chair_base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na stolac1"
+		},
+		{
+			"dict": "timetable@michael@on_clubchairidle_a",
+			"name": "on_clubchair_b",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na stolac2"
+		},
+		{
+			"dict": "timetable@trevor@smoking_meth@base",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen1"
+		},
+		{
+			"dict": "switch@trevor@mocks_lapdance",
+			"name": "001443_01_trvs_28_idle_man",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen2"
+		},
+		{
+			"dict": "switch@trevor@mocks_lapdance",
+			"name": "001443_01_trvs_28_exit_man",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen3"
+		},
+		{
+			"dict": "anim@gangops@morgue@table@",
+			"name": "body_search",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži ravno"
+		},
+		{
+			"dict": "amb@world_human_sunbathe@female@back@idle_a",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži"
+		},
+		{
+			"dict": "misslamar1dead_body",
+			"name": "dead_idle",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži kao beživotno telo"
+		},
+		{
+			"dict": "missarmenian2",
+			"name": "drunk_loop",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži na trbuh1"
+		},
+		{
+			"dict": "amb@world_human_sunbathe@male@front@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži na trbuh2"
+		},
+		{
+			"dict": "missfbi3_sniping",
+			"name": "prone_dave",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži na trbuh3"
+		},
+		{
+			"dict": "random@burial",
+			"name": "b_burial",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži vezan"
+		},
+		{
+			"dict": "amb@world_human_bum_slumped@male@laying_on_right_side@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži na levom boku"
+		},
+		{
+			"dict": "missheistdockssetup1ig_13@kick_idle",
+			"name": "guard_beatup_kickidle_dockworker",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži povređen1"
+		},
+		{
+			"dict": "timetable@tracy@sleep@",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži povređen2"
+		},
+		{
+			"dict": "missfbi5ig_0",
+			"name": "lyinginpain_loop_steve",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži povređen3"
+		},
+		{
+			"dict": "missarmenian2",
+			"name": "corpse_search_exit_ped",
+			"speed": 39,
+			"flag": 33,
+			"label": "Leži pijan"
+		},
+		{
+			"dict": "safe@franklin@ig_13",
+			"name": "tv_idle_a",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi gleda TV"
+		},
+		{
+			"dict": "anim@amb@yacht@jacuzzi@seated@female@variation_01@",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen jacuzzi1"
+		},
+		{
+			"dict": "anim@amb@yacht@jacuzzi@seated@female@variation_02@",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen jacuzzi2"
+		},
+		{
+			"dict": "anim@amb@yacht@jacuzzi@seated@female@variation_05@",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen jacuzzi3"
+		},
+		{
+			"dict": "anim@amb@yacht@jacuzzi@seated@male@variation_03@",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi zavaljen jacuzzi4"
+		},
+		{
+			"dict": "amb@prop_human_seat_bar@male@hands_on_bar@base",
+			"name": "base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na barsku stolicu1"
+		},
+		{
+			"dict": "amb@prop_human_seat_bar@female@left_elbow_on_bar@idle_a",
+			"name": "idle_a",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na barsku stolicu2"
+		},
+		{
+			"dict": "anim@special_peds@casino@vince@steps@cas_vince_ig2",
+			"name": "cas_vince_ig2_id_go_home",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na stepenište1"
+		},
+		{
+			"dict": "rcmjosh3",
+			"name": "sit_stairs_idle",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na stepenište2"
+		},
+		{
+			"dict": "anim@amb@casino@out_of_money@ped_female@01a@idles",
+			"name": "idle_d",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi tužno"
+		},
+		{
+			"dict": "rcmnigel1a_band_groupies",
+			"name": "base_m1",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi uspavano1"
+		},
+		{
+			"dict": "timetable@reunited@ig_10",
+			"name": "base_jimmy",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi uspavano2"
+		},
+		{
+			"dict": "anim@amb@business@bgen@bgen_no_work@",
+			"name": "sit_phone_phoneputdown_idle-noworkfemale",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod1"
+		},
+		{
+			"dict": "anim@amb@business@bgen@bgen_no_work@",
+			"name": "sit_phone_phoneputdown_idle_nowork",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod2"
+		},
+		{
+			"dict": "rcm_barry3",
+			"name": "barry_3_sit_loop",
+			"speed": 8,
+			"flag": 1,
+			"label": "Sjedni na pod3"
+		},
+		{
+			"dict": "anim@heists@fleeca_bank@ig_7_jetski_owner",
+			"name": "owner_idle",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod4"
+		},
+		{
+			"dict": "amb@lo_res_idles@",
+			"name": "world_human_picnic_female_lo_res_base",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod5"
+		},
+		{
+			"dict": "anim@amb@casino@out_of_money@ped_male@02b@idles",
+			"name": "idle_a",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod6"
+		},
+		{
+			"dict": "missheist_jewel",
+			"name": "jh_2b_endloop_male2",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod6"
+		},
+		{
+			"dict": "anim@heists@prison_heistunfinished_biz@popov_react",
+			"name": "popov_cower",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod uplašeno"
+		},
+		{
+			"dict": "switch@trevor@floyd_crying",
+			"name": "console_end_loop_floyd",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi i plače1"
+		},
+		{
+			"dict": "anim@amb@nightclub@lazlow@lo_alone@",
+			"name": "lowalone_base_laz",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi i plače2"
+		},
+		{
+			"dict": "amb@prop_human_seat_computer@male@react_cowering",
+			"name": "cover_enter",
+			"speed": 48,
+			"flag": 33,
+			"label": "Sedi i brani se"
+		},
+		{
+			"dict": "anim@amb@business@bgen@bgen_no_work@",
+			"name": "sit_phone_idle_01-noworkfemale",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na pod i čita"
+		},
+		{
+			"dict": "switch@trevor@on_toilet",
+			"name": "trev_on_toilet_loop",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi na šolju"
+		},
+		{
+			"dict": "missdrfriedlanderdrf_idles",
+			"name": "drf_idle_drf",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi noga preko noge1"
+		},
+		{
+			"dict": "timetable@reunited@ig_10",
+			"name": "isthisthebest_amanda",
+			"speed": 1,
+			"flag": 33,
+			"label": "Sedi noga preko noge2"
+		},
+		{
+			"dict": "switch@michael@sunlounger",
+			"name": "sunlounger_idle",
+			"speed": 1,
+			"flag": 33,
+			"label": "Leži sunča se"
+		},
+		{
+			"dict": "switch@trevor@annoys_sunbathers",
+			"name": "trev_annoys_sunbathers_loop_girl",
+			"speed": 1,
+			"flag": 33,
+			"label": "Ležanje1"
+		},
+		{
+			"dict": "switch@trevor@annoys_sunbathers",
+			"name": "trev_annoys_sunbathers_loop_guy",
+			"speed": 1,
+			"flag": 33,
+			"label": "Ležanje2"
+		},
+		{
+			"dict": "saveveniceb@",
+			"name": "t_sleep_r_loop_veniceb",
+			"speed": 1,
+			"flag": 33,
+			"label": "Ležanje3"
+		},
+		{
+			"dict": "amb@prop_human_seat_sunlounger@female@idle_a",
+			"name": "idle_a",
+			"speed": 1,
+			"flag": 33,
+			"label": "Leži i diže noge"
+		},
+		{
+			"dict": "amb@prop_human_seat_sunlounger@male@idle_a",
+			"name": "idle_a",
+			"speed": 1,
+			"flag": 33,
+			"label": "Leži na ležaljci1"
+		},
+		{
+			"dict": "switch@michael@lounge_chairs",
+			"name": "001523_01_mics3_9_lounge_chairs_idle_ama",
+			"speed": 1,
+			"flag": 33,
+			"label": "Leži na ležaljci2"
+		},
+		{
+			"dict": "rcm_barry3",
+			"name": "barry_3_sit_loop",
+			"speed": 8,
+			"flag": 1,
+			"label": "Sjedni na pod"
+		}
+	],
+	"dance": [
+		{
+			"dict": "rcmnigel1bnmt_1b",
+			"name": "dance_loop_tyler",
+			"speed": 8,
+			"flag": 33,
+			"label": "Ples1"
+		},
+		{
+			"dict": "misschinese2_crystalmazemcs1_cs",
+			"name": "dance_loop_tao",
+			"speed": 8,
+			"flag": 33,
+			"label": "Ples2"
+		},
+		{
+			"dict": "mini@strip_club@private_dance@part1",
+			"name": "priv_dance_p1",
+			"speed": 8,
+			"flag": 33,
+			"label": "Ples3"
+		},
+		{
+			"dict": "switch@trevor@mocks_lapdance",
+			"name": "001443_01_trvs_28_exit_stripper",
+			"speed": 8,
+			"flag": 33,
+			"label": "Ples4"
+		},
+		{
+			"dict": "special_ped@mountain_dancer@monologue_2@monologue_2a",
+			"name": "mnt_dnc_angel",
+			"speed": 8,
+			"flag": 33,
+			"label": "Ples5"
+		},
+		{
+			"dict": "mp_am_stripper",
+			"name": "lap_dance_player",
+			"speed": 1,
+			"flag": 33,
+			"label": "Lap Dance Player"
+		},
+		{
+			"dict": "missfbi3_sniping",
+			"name": "dance_m_default",
+			"speed": 8,
+			"flag": 33,
+			"label": "Ples6"
+		},
+		{
+			"dict": "mini@strip_club@private_dance@idle",
+			"name": "priv_dance_idle",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples7"
+		},
+		{
+			"dict": "mp_am_stripper",
+			"name": "lap_dance_girl",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples8"
+		},
+		{
+			"dict": "mini@strip_club@private_dance@part3",
+			"name": "priv_dance_p3",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples9"
+		},
+		{
+			"dict": "mini@strip_club@private_dance@part2",
+			"name": "priv_dance_p2",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples10"
+		},
+		{
+			"dict": "mini@strip_club@idles@stripper",
+			"name": "stripper_idle_04",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples11"
+		},
+		{
+			"dict": "switch@trevor@mocks_lapdance",
+			"name": "001443_01_trvs_28_idle_stripper",
+			"speed": 1,
+			"flag": 33,
+			"label": "Ples12"
+		},
+		{
+			"dict": "special_ped@mountain_dancer@monologue_1@monologue_1a",
+			"name": "mtn_dnc_if_you_want_to_get_to_heaven",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples13"
+		},
+		{
+			"dict": "anim@amb@nightclub@mini@dance@dance_solo@male@var_a@",
+			"name": "high_center_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples14"
+		},
+		{
+			"dict": "anim@amb@nightclub@mini@dance@dance_solo@female@var_a@",
+			"name": "high_center_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples15"
+		},
+		{
+			"dict": "anim@amb@nightclub@mini@dance@dance_solo@female@var_a@",
+			"name": "low_center_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples16"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity",
+			"name": "li_dance_facedj_09_v1_male^2",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples17"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@crowddance_facedj@low_intesnsity",
+			"name": "li_dance_facedj_09_v1_male^1",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples18"
+		},
+		{
+			"dict": "anim@amb@nightclub@lazlow@hi_railing@",
+			"name": "ambclub_12_mi_hi_bootyshake_laz",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples19"
+		},
+		{
+			"dict": "missfbi3_sniping",
+			"name": "dance_m_default",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples20"
+		},
+		{
+			"dict": "amb@world_human_partying@female@partying_beer@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples21"
+		},
+		{
+			"dict": "amb@world_human_strip_watch_stand@male_a@idle_a",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples22"
+		},
+		{
+			"dict": "mini@strip_club@idles@dj@idle_04",
+			"name": "idle_04",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples23"
+		},
+		{
+			"dict": "amb@world_human_prostitute@cokehead@idle_a",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples24"
+		},
+		{
+			"dict": "amb@world_human_prostitute@cokehead@idle_a",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples25"
+		},
+		{
+			"dict": "mini@strip_club@lap_dance_2g@ld_2g_p2",
+			"name": "ld_2g_p2_s1",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples26"
+		},
+		{
+			"dict": "misschinese2_crystalmazemcs1_ig",
+			"name": "dance_loop_tao",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples27"
+		},
+		{
+			"dict": "missfbi3_sniping",
+			"name": "dance_m_default",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples28"
+		},
+		{
+			"dict": "amb@world_human_partying@female@partying_beer@idle_a",
+			"name": "idle_b",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples29"
+		},
+		{
+			"dict": "rcmnigel1bnmt_1b",
+			"name": "dance_intro_tyler",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples30"
+		},
+		{
+			"dict": "mini@strip_club@lap_dance_2g@ld_2g_p3",
+			"name": "ld_2g_p3_s2",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples31"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_center_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples32"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_center_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples33"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_left",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples34"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_left_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples35"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_left_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples36"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_right",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples37"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_right_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples38"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "high_right_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples39"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_center",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples40"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_center_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples41"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_center_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples42"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_left",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples43"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_left_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples44"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_left_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples45"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_right",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples46"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_right_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples47"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "low_right_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples48"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_center",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples49"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_center_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples50"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_center_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples51"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_left",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples52"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_left_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples53"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_left_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples54"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_right",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples55"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_right_down",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples56"
+		},
+		{
+			"dict": "anim@amb@casino@mini@dance@dance_solo@female@var_b@",
+			"name": "med_right_up",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples57"
+		},
+		{
+			"dict": "amb@code_human_in_car_mp_actions@dance@bodhi@rds@base",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples58"
+		},
+		{
+			"dict": "amb@code_human_in_car_mp_actions@dance@bodhi@rds@base",
+			"name": "idle_b",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples59"
+		},
+		{
+			"dict": "amb@code_human_in_car_music@generic@ps@idle_a",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples60"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity",
+			"name": "hi_dance_facedj_09_v2_female^3",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples61"
+		},
+		{
+			"dict": "anim@amb@nightclub@mini@dance@dance_solo@female@var_b@",
+			"name": "high_center",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples62"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@club_ambientpeds@",
+			"name": "mi-hi_amb_club_13_v1_female^1",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples63"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@club_ambientpeds@",
+			"name": "mi-hi_amb_club_11_v1_female^1",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples64"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@club_ambientpeds@med-hi_intensity",
+			"name": "mi-hi_amb_club_11_v1_female^6",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples65"
+		},
+		{
+			"dict": "anim@amb@nightclub@dancers@club_ambientpeds@med-hi_intensity",
+			"name": "mi-hi_amb_club_09_v1_male^3",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples66"
+		},
+		{
+			"dict": "anim@amb@nightclub@lazlow@hi_podium@",
+			"name": "danceidle_hi_11_turnaround_laz",
+			"speed": 39,
+			"flag": 33,
+			"label": "Ples67"
+		}
+	],
+	"sport": [
+		{
+			"dict": "anim@deathmatch_intros@unarmed",
+			"name": "intro_male_unarmed_e",
+			"speed": 8,
+			"flag": 49,
+			"label": "Zagrijati se"
+		},
+		{
+			"dict": "amb@world_human_muscle_flex@arms_at_side@base",
+			"name": "base",
+			"speed": 8,
+			"flag": 49,
+			"label": "Pokazi misice"
+		},
+		{
+			"dict": "mini@triathlon",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Zagrijava se1"
+		},
+		{
+			"dict": "mini@triathlon",
+			"name": "idle_b",
+			"speed": 39,
+			"flag": 33,
+			"label": "Zagrijava se2"
+		},
+		{
+			"dict": "amb@world_human_push_ups@male@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Sklekovi"
+		},
+		{
+			"dict": "amb@world_human_sit_ups@male@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Trbušnjaci"
+		},
+		{
+			"dict": "amb@world_human_muscle_flex@arms_at_side@idle_a",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Flex mišićima1"
+		},
+		{
+			"dict": "amb@world_human_muscle_flex@arms_at_side@idle_a",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Flex mišićima2"
+		},
+		{
+			"dict": "amb@world_human_muscle_flex@arms_in_front@base",
+			"name": "base",
+			"speed": 39,
+			"flag": 33,
+			"label": "Flex mišićima3"
+		},
+		{
+			"dict": "misschinese1leadinoutchinese_1_int",
+			"name": "russ_leadin_loop",
+			"speed": 39,
+			"flag": 33,
+			"label": "Stav za box"
+		},
+		{
+			"dict": "amb@world_human_muscle_free_weights@male@barbell@base",
+			"name": "base",
+			"speed": 8,
+			"flag": 1,
+			"label": "Podigni uteg"
+		},
+		{
+			"dict": "amb@world_human_push_ups@male@base",
+			"name": "base",
+			"speed": 8,
+			"flag": 1,
+			"label": "Sklekovi"
+		},
+		{
+			"dict": "amb@world_human_sit_ups@male@base",
+			"name": "base",
+			"speed": 8,
+			"flag": 1,
+			"label": "Pritisnuti"
+		},
+		{
+			"dict": "rcmcollect_paperleadinout@",
+			"name": "meditiate_idle",
+			"speed": 39,
+			"flag": 33,
+			"label": "Meditacija"
+		},
+		{
+			"dict": "amb@world_human_yoga@male@base",
+			"name": "base_a",
+			"speed": 8,
+			"flag": 49,
+			"label": "Joga1"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "f_yogapose_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga2"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "c8_pose",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga3"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "b4_fail_to_start",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga4"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "start_to_c1",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga5"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "start_to_a1",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga6"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "a2_to_a3",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga7"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "a3_fail_to_start",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga8"
+		},
+		{
+			"dict": "amb@world_human_yoga@female@base",
+			"name": "base_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga9"
+		},
+		{
+			"dict": "mini@yoga",
+			"name": "outro_2",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga10"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "c5_pose",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga11"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "a2_pose",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga12"
+		},
+		{
+			"dict": "missfam5_yoga",
+			"name": "c6_pose",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga13"
+		},
+		{
+			"dict": "amb@world_human_yoga@female@base",
+			"name": "base_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Joga14"
+		}
+	],
+	"social": [
+		{
+			"dict": "mp_player_int_uppersalute",
+			"name": "mp_player_int_salute",
+			"speed": 8,
+			"flag": 49,
+			"label": "Pozdrav"
+		},
+		{
+			"dict": "anim@mp_player_intcelebrationmale@face_palm",
+			"name": "face_palm",
+			"speed": 8,
+			"flag": 49,
+			"label": "Facepalm1"
+		},
+		{
+			"dict": "anim@mp_player_intcelebrationfemale@face_palm",
+			"name": "face_palm",
+			"speed": 0,
+			"flag": 33,
+			"label": "Facepalm2"
+		},
+		{
+			"dict": "mp_player_int_upperwank",
+			"name": "mp_player_int_wank_01",
+			"speed": 8,
+			"flag": 49,
+			"label": "Masturbacija"
+		},
+		{
+			"dict": "anim@mp_player_intcelebrationmale@chicken_taunt",
+			"name": "chicken_taunt",
+			"speed": 8,
+			"flag": 49,
+			"label": "Pijetao"
+		},
+		{
+			"dict": "amb@code_human_in_car_mp_actions@v_sign@bodhi@rps@base",
+			"name": "idle_a",
+			"speed": 8,
+			"flag": 49,
+			"label": "Dva prsta"
+		},
+		{
+			"dict": "amb@world_human_cheering@female_d",
+			"name": "base",
+			"speed": 8,
+			"flag": 49,
+			"label": "Pljesak"
+		},
+		{
+			"dict": "anim@mp_player_intselfiedock",
+			"name": "idle_a",
+			"speed": 8,
+			"flag": 49,
+			"label": "OK"
+		},
+		{
+			"dict": "anim@mp_player_intselfiethumbs_up",
+			"name": "idle_a",
+			"speed": 8,
+			"flag": 49,
+			"label": "Kao"
+		}
+	],
+	"others": [
+		{
+			"dict": "amb@code_human_cower_stand@female@base",
+			"name": "base",
+			"speed": 8,
+			"flag": 1,
+			"label": "Uplasen"
+		},
+		{
+			"dict": "rcm_epsilonism4",
+			"name": "eps_4_ig_1_jimmy_lookaround_idle_a_jb",
+			"speed": 8,
+			"flag": 1,
+			"label": "Gleda u pod"
+		},
+		{
+			"dict": "special_ped@baygor@monologue_6@monologue_6k",
+			"name": "salvation_comes_at_a_price_10",
+			"speed": 39,
+			"flag": 33,
+			"label": "Stav ne razumijem1"
+		},
+		{
+			"dict": "anim@mp_celebration@draw@male",
+			"name": "draw_react_male_a",
+			"speed": 48,
+			"flag": 33,
+			"label": "Stav ne razumijem2"
+		},
+		{
+			"dict": "oddjobs@towingangryidle_a",
+			"name": "idle_c",
+			"speed": 49,
+			"flag": 33,
+			"label": "Iznerviran"
+		},
+		{
+			"dict": "amb@code_human_police_crowd_control@idle_a",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Stav umiruje ljude"
+		},
+		{
+			"dict": "random@bus_tour_guide@idle_a",
+			"name": "idle_b",
+			"speed": 48,
+			"flag": 33,
+			"label": "Objašnjava1"
+		},
+		{
+			"dict": "special_ped@jerome@monologue_6@monologue_6g",
+			"name": "youthinkyourhappy_6",
+			"speed": 48,
+			"flag": 33,
+			"label": "Objašnjava2"
+		},
+		{
+			"dict": "anim@mp_player_intcelebrationfemale@you_loco",
+			"name": "you_loco",
+			"speed": 0,
+			"flag": 33,
+			"label": "Objašnjava3"
+		},
+		{
+			"dict": "anim@mp_player_intcelebrationfemale@bro_love",
+			"name": "bro_love",
+			"speed": 0,
+			"flag": 33,
+			"label": "Bro Love"
+		},
+		{
+			"dict": "rcmepsilonism8",
+			"name": "think",
+			"speed": 8,
+			"flag": 49,
+			"label": "Svrbi se po glavi"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_hand_down",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija ruke dole"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "getsure_its_mine",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija to je moje"
+		},
+		{
+			"dict": "anim@heists@ornate_bank@chat_manager",
+			"name": "fail",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija prestani"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_damn",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija iznerviran1"
+		},
+		{
+			"dict": "mini@dartsoutro",
+			"name": "darts_outro_03_guy1",
+			"speed": 0,
+			"flag": 33,
+			"label": "Gestikulacija iznerviran2"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_me",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija pokazuje na sebe"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_point",
+			"speed": 49,
+			"flag": 33,
+			"label": "Gestikulacija pokazuje rukom"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_no_way",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija nema šanse"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_come_here_soft",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija dođi ovamo"
+		},
+		{
+			"dict": "gestures@m@standing@fat",
+			"name": "gesture_bye_soft",
+			"speed": 0,
+			"flag": 33,
+			"label": "Gestikulacija ma daj"
+		},
+		{
+			"dict": "gestures@f@standing@casual",
+			"name": "gesture_hello",
+			"speed": 48,
+			"flag": 33,
+			"label": "Gestikulacija pozdravlja"
+		},
+		{
+			"dict": "taxi_hail",
+			"name": "fp_hail_taxi",
+			"speed": 0,
+			"flag": 33,
+			"label": "Zove taxi"
+		},
+		{
+			"dict": "timetable@jimmy@doorknock@",
+			"name": "knockdoor_idle",
+			"speed": 49,
+			"flag": 33,
+			"label": "Kuca na vrata"
+		},
+		{
+			"dict": "anim@mp_freemode_return@f@idle",
+			"name": "idle_a",
+			"speed": 8,
+			"flag": 49,
+			"label": "Svrbi se po dupetu"
+		},
+		{
+			"dict": "amb@world_human_bum_wash@male@high@idle_a",
+			"name": "idle_a",
+			"speed": 0,
+			"flag": 33,
+			"label": "Pere ruke u rijeci"
+		},
+		{
+			"dict": "mini@hookers_spcrackhead",
+			"name": "idle_c",
+			"speed": 39,
+			"flag": 33,
+			"label": "Pijan"
+		},
+		{
+			"dict": "missfbi5misc",
+			"name": "plyr_roll_left",
+			"speed": 0,
+			"flag": 33,
+			"label": "Prevrće se u lijevo"
+		},
+		{
+			"dict": "move_crawl",
+			"name": "onfront_bwd",
+			"speed": 1,
+			"flag": 33,
+			"label": "Puzati u natrag"
+		},
+		{
+			"dict": "mini@hookers_spvanilla",
+			"name": "idle_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Šalje poljubac"
+		},
+		{
+			"dict": "mp_ped_interaction",
+			"name": "hugs_guy_b",
+			"speed": 39,
+			"flag": 33,
+			"label": "Poljubac1"
+		},
+		{
+			"dict": "missfbi3_party_d",
+			"name": "stand_talk_loop_a_male1",
+			"speed": 8,
+			"flag": 49,
+			"label": "Priča"
+		},
+		{
+			"dict": "timetable@trevor@skull_loving_bear",
+			"name": "skull_loving_bear",
+			"speed": 39,
+			"flag": 33,
+			"label": "Sex1"
+		},
+		{
+			"dict": "misscarsteal2pimpsex",
+			"name": "shagloop_hooker",
+			"speed": 39,
+			"flag": 33,
+			"label": "Blowjob"
+		},
+		{
+			"dict": "missfbi3_party_d",
+			"name": "stand_talk_loop_a_male3",
+			"speed": 8,
+			"flag": 49,
+			"label": "Gestikulacija prstima"
+		},
+		{
+			"dict": "timetable@floyd@clean_kitchen@idle_a",
+			"name": "idle_b",
+			"speed": 49,
+			"flag": 33,
+			"label": "Briše kuhinju"
+		},
+		{
+			"dict": "rcmpaparazzo_2",
+			"name": "shag_loop_a",
+			"speed": 39,
+			"flag": 33,
+			"label": "Paparazzo 2 - Shag Loop A"
+		},
+		{
+			"dict": "rcmpaparazzo_2",
+			"name": "shag_loop_poppy",
+			"speed": 39,
+			"flag": 33,
+			"label": "Paparazzo 2 - Shag Loop Poppy"
+		},
+		{
+			"dict": "anim@mp_player_intincarthumbs_upbodhi@ds@",
+			"name": "Palac gore",
+			"speed": 48,
+			"flag": 33,
+			"label": "Enter FP"
+		}
+	]
+}

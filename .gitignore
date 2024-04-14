@@ -1,0 +1,40 @@
+## System and generated files
+.idea
+.DS_Store
+
+## Directories
+log/
+node_modules/
+
+## Files
+node_modules
+package-lock.json
+yarn.lock
+
+# rage mp
+.listcache
+client_packages/game_resources/
+logs/
+bin/
+dotnet/
+maps/
+
+# build files
+client_packages/cef
+client_packages/index.js
+
+# build files
+packages/server/index.js
+packages/server/index.js.map
+
+# ragemp server files
+ragemp-server.exe
+linux_x64.tar.gz
+BugTrap-x64.dll
+savedposplayer.json
+
+.env
+
+*.zip
+
+src_ui/src/assets/images/inventory/clothes

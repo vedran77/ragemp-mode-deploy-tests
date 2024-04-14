@@ -1,0 +1,45 @@
+.inventory_quick {
+  margin: 2% 0;
+  width: fit-content;
+  position: relative;
+
+  &-title {
+    width: 60%;
+    text-align: right;
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 1.3vw;
+    font-weight: 200;
+    line-height: 1.2;
+  }
+
+  &-key {
+    position: absolute !important;
+    bottom: -0.5vw;
+    left: -0.5vw;
+    width: 1.5vw;
+    height: 1.5vw;
+    background: $gh-green;
+    line-height: 1.2;
+    font-size: 1vw;
+    text-align: center;
+    color: #fff;
+    clip-path: polygon(
+      50% 0%,
+      90% 20%,
+      100% 60%,
+      75% 100%,
+      25% 100%,
+      0% 60%,
+      10% 20%
+    );
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &-cell {
+    margin-bottom: 20%;
+  }
+}

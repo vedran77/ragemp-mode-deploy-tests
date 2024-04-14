@@ -1,0 +1,47 @@
+.player-passport {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .faction-docs_close {
+    position: absolute;
+    top: 6%;
+    right: 1.5%;
+  }
+
+  &_container {
+    position: relative;
+    width: 40%;
+    background: url(~assets/images/passport.png) center center/contain no-repeat;
+    overflow: hidden;
+  }
+
+  &_fields {
+    padding: 20% 4%;
+    padding-left: 30%;
+  }
+
+  &_field {
+    margin-bottom: 1.5%;
+    display: flex;
+    align-items: center;
+
+    &:nth-child(3) {
+      margin-bottom: 5%;
+    }
+
+    &-name {
+      margin: 0;
+      color: #ffffff92;
+
+      font-weight: 300;
+      font-size: 1vw;
+    }
+
+    &-value {
+      margin-left: 3%;
+      color: #fff;
+      font-size: 1vw;
+    }
+  }
+}

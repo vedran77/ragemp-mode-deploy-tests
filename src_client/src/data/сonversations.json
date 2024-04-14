@@ -1,0 +1,297 @@
+[
+	{
+		"title": "Asistent prodaje",
+		"text": "Trebate li savjet? \n Imamo sirok izbor ponude!",
+		"answers": [
+			{
+				"text": "Da, molim Vas!",
+				"callback": ["Services-ShowMenu", "clothing_shop"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Tattoo majstor",
+		"text": "Pozdrav! Zelite li se tetovirati?",
+		"answers": [
+			{
+				"text": "Da, pokazite mi radove",
+				"callback": ["Services-ShowMenu", "tattoo_shop"]
+			},
+			{ "text": "Ne, nisam jos siguran." }
+		]
+	},
+	{
+		"title": "Frizer",
+		"text": "Zelite pogledati ponudu?",
+		"answers": [
+			{
+				"text": "Da, molim Vas!",
+				"callback": ["Services-ShowMenu", "barbershop"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Plasticni kirurg",
+		"text": "Pozdrav! Zelite li plasticnu operaciju?",
+		"answers": [
+			{
+				"text": "Da, zelim!",
+				"callback": ["Services-ShowMenu", "surgeon"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Bankar",
+		"text": "Postovani, želite li obavljati bankovne transakcije?",
+		"answers": [{ "text": "Tako je", "callback": ["Services-ShowMenu", "bank"] }, { "text": "Ne, drugi put" }]
+	},
+	{
+		"title": "Prodavac 24/7",
+		"text": "Zdravo, šta biste danas kupili?",
+		"answers": [
+			{
+				"text": "Prikazite ponudu",
+				"callback": ["Services-ShowMenu", "supermarket"]
+			},
+			{ "text": "Hvala, međutim za sada ništa." }
+		]
+	},
+	{
+		"title": "Prodavac oruzja",
+		"text": "Pozdrav, želite li kupiti oružije?",
+		"answers": [
+			{
+				"text": "Da, pokazite mi ponudu.",
+				"callback": ["Services-ShowMenu", "weapons"]
+			},
+			{ "text": "Ne, drugi put!" }
+		]
+	},
+	{
+		"title": "Izdavač licence",
+		"text": "Zdravo! Jeste li zainteresirani za kupnju licenci?",
+		"answers": [
+			{
+				"text": "Da trebam licencu",
+				"callback": ["Services-ShowMenu", "licenses"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Putovnica",
+		"text": "Zdravo! Želite li promeniti dokumente?",
+		"answers": [
+			{
+				"text": "Da, želim promeniti dokumente",
+				"callback": ["Services-ShowMenu", "passport"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Menadzer",
+		"text": "Zdravo! Želite li kupiti jeftin automobil?",
+		"answers": [
+			{
+				"text": "Da, pokazite mi ponudu.",
+				"callback": ["Services-ShowMenu", "cheap_carshop"]
+			},
+			{ "text": "Ne, hvala!." }
+		]
+	},
+	{
+		"title": "Menadzer",
+		"text": "Dobar dan! Jeste li zainteresirani za kupnju novog automobila?",
+		"answers": [
+			{
+				"text": "Da, pokazite mi ponudu!",
+				"callback": ["Services-ShowMenu", "mid_carshop"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Voditelj prodaje",
+		"text": "Dobrodosli u nas izlog! \n Odabir novog automobila?",
+		"answers": [
+			{
+				"text": "Da, pokazite mi ponudu.",
+				"callback": ["Services-ShowMenu", "premium_carshop"]
+			},
+			{ "text": "Ne, hvala" }
+		]
+	},
+	{
+		"title": "Sonny Barger",
+		"text": "Pozdrav! Zelite biciklo??",
+		"answers": [
+			{
+				"text": "Da, zelim!",
+				"callback": ["Services-ShowMenu", "bikeshop"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Stranac",
+		"text": "Zdravo! Vidim da ste novi ovdje? \n Ukoliko ste tek stigli, tada biste trebali ispuniti dokumente! \n Poslati ću Vam lokaciju. Sretno!",
+		"answers": [
+			{
+				"text": "Pozdrav, hvala puno!",
+				"callback": ["Blips-MarkNearest", "Opština"]
+			},
+			{ "text": "Ne treba!" }
+		]
+	},
+	{
+		"title": "Vozač motora",
+		"text": "Pozdrav! Zelis li rentati skuter?",
+		"answers": [
+			{
+				"text": "Da!",
+				"callback": ["Services-ShowMenu", "scooter_rent"]
+			},
+			{ "text": "Ne, hvala" }
+		]
+	},
+	{
+		"title": "Brigadir",
+		"text": "Pozdrav! Zelite li se zaposliti kod nas na gradilistu?",
+		"answers": [
+			{
+				"text": "Zelim se zaposliti!",
+				"callback": ["Jobs-ShowMenu", "Building"]
+			},
+			{ "text": "Ne zelim!" }
+		]
+	},
+	{
+		"title": "Sancho",
+		"text": "Pozdrav.. odmah cu reci da nas rad nije bas legalan. \n Ukoliko se zaposlite - moglo bi biti problema s policijom.",
+		"answers": [
+			{
+				"text": "Spreman sam na rizik!",
+				"callback": ["Jobs-ShowMenu", "Car_Theft"]
+			},
+			{ "text": "Ne zelim!" }
+		]
+	},
+	{
+		"title": "Postar",
+		"text": "Lijep pozdrav! \n Nas posao je dosta prasnjav, moramo pakete iznijeti na siguran i zdrav nacin. \n Jesi li spreman za raditi?",
+		"answers": [{ "text": "Da, zelim!", "callback": ["Jobs-ShowMenu", "Postal"] }, { "text": "Ne zelim!" }]
+	},
+	{
+		"title": "Lucki radnik",
+		"text": "Pozdrav! Jeste li spremni suradivati sa nama u luci?",
+		"answers": [
+			{
+				"text": "Da, spreman sam!",
+				"callback": ["Jobs-ShowMenu", "Waterfront"]
+			},
+			{ "text": "Ne, isprike!" }
+		]
+	},
+	{
+		"title": "Mehaničar",
+		"text": "Zelite li zadužiti vozilo?",
+		"answers": [{ "text": "Zelim!", "callback": ["Factions-ShowGarage"] }, { "text": "Ne zelim!" }]
+	},
+	{
+		"title": "Snoric",
+		"text": "Sta trebate?",
+		"answers": [
+			{
+				"text": "Zelim isporucivati robu!",
+				"callback": ["Jobs-ShowMenu", "Smuggling"]
+			},
+			{ "text": "Za sada nista!" }
+		]
+	},
+	{
+		"title": "Brate",
+		"text": "Sta treba buraz?",
+		"answers": [{ "text": "U redu" }]
+	},
+	{
+		"title": "Voditelj prodaje",
+		"text": "Pozdrav, dobrodosli u VIP salon! \n Zelite li vidjeti premium automobile?",
+		"answers": [
+			{
+				"text": "Da, pokazite ponudu!",
+				"callback": ["Services-ShowMenu", "vip_shop"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Voditelj prodaje",
+		"text": "Pozdrav! Zelite li kupiti osobni avion? \n Takodjer su dostupni helikopteri!?",
+		"answers": [
+			{
+				"text": "Da, zelim!",
+				"callback": ["Services-ShowMenu", "airshop"]
+			},
+			{ "text": "Ne, nemam toliko novca!" }
+		]
+	},
+	{
+		"title": "Voditelj prodaje",
+		"text": "Zdravo! Zelite li kupiti osobno plovilo?",
+		"answers": [
+			{
+				"text": "Da, pokazite mi ponudu!",
+				"callback": ["Services-ShowMenu", "boatshop"]
+			},
+			{ "text": "Ne, hvala!" }
+		]
+	},
+	{
+		"title": "Prodavac",
+		"text": "Zdravo! Nudim najam plovila, zelite li?",
+		"answers": [
+			{
+				"text": "Zelim!",
+				"callback": ["Services-ShowMenu", "boat_rent"]
+			},
+			{ "text": "Ne zelim!" }
+		]
+	},
+	{
+		"title": "Kuhar",
+		"text": "Pozdrav! Zelite loviti ribu za nas? \n Novcano Vas necemo razocarati!",
+		"answers": [
+			{
+				"text": "Zelim!",
+				"callback": ["Services-ShowMenu", "fish_sale"]
+			},
+			{ "text": "Ok, razmisliti cu!" }
+		]
+	},
+	{
+		"title": "Kamiondzija",
+		"text": "Pozdrav! Zelite li da vozite za nas?",
+		"answers": [
+			{
+				"text": "Da, zelim!",
+				"callback": ["Jobs-ShowMenu", "Trucking"]
+			},
+			{ "text": "Ne zelim!" }
+		]
+	},
+	{
+		"title": "Čovek sa crnog tržišta",
+		"text": "Pozdrav! Budi brz, imam i drugih briga!",
+		"answers": [
+			{
+				"text": "Želim da prodam",
+				"callback": ["BlackMarket-Sell"]
+			},
+			{ "text": "Vidimo se" }
+		]
+	}
+]

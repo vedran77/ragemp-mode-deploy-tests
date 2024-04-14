@@ -1,0 +1,23 @@
+.inventory_pockets {
+  position: relative;
+
+  padding: 0 0% 4%;
+  display: flex;
+  flex-direction: column;
+
+  & > * {
+    position: relative;
+    z-index: 2;
+  }
+
+  &::before {
+    @extend %pseudo;
+
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    z-index: 0;
+  }
+}

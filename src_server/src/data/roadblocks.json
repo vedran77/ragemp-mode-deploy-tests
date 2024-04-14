@@ -1,0 +1,70 @@
+{
+  "cone": {
+    "object": "prop_mp_cone_02",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "cone2": {
+    "object": "prop_barrier_wat_03a",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "lcone": {
+    "object": "prop_air_conelight",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "mcone": {
+    "object": "prop_bollard_01a",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "sbarrier": {
+    "object": "prop_barrier_work01a",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "sbarrier2": {
+    "object": "prop_mp_barrier_02b",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "barrier": {
+    "object": "prop_barrier_work05",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "barrier2": {
+    "object": "prop_barrier_work06a",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "barrier3": {
+    "object": "prop_barier_conc_05c",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "speedbump": {
+    "object": "xs_prop_track_slowdown",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "stop": {
+    "object": "prop_sign_road_01a",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "sinl": {
+    "object": "prop_sign_road_03z",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "left": {
+    "object": "prop_sign_road_06q",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "right": {
+    "object": "prop_sign_road_06r",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "fence": {
+    "object": "ba_prop_battle_barrier_02a",
+    "authorities": ["lspd", "lssd", "lsfd"]
+  },
+  "spike": {
+    "object": "p_stinger_03",
+    "authorities": ["lspd", "lssd"]
+  },
+  "radar": {
+    "object": "p_tv_cam_02_s",
+    "authorities": ["lspd", "lssd"]
+  }
+}

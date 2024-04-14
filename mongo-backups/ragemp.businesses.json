@@ -1,0 +1,1350 @@
+[
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e33fe"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Parking",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e33ff"
+      },
+      "x": -2030.14184570313,
+      "y": -465.561584472656,
+      "z": 11.6039781570435
+    },
+    "price": 2000000,
+    "income": 60000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e3404"
+    },
+    "paymentTime": {
+      "$date": "2024-01-30T01:03:58.535Z"
+    },
+    "paid": 12,
+    "name": "Аuto praonica",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e3405"
+      },
+      "x": 37.6212005615234,
+      "y": -1405.52258300781,
+      "z": 29.343391418457
+    },
+    "price": 6000000,
+    "income": 130000,
+    "__v": 0,
+    "owner": {
+      "$oid": "65a1bf3bd1ef9c7444381177"
+    },
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e3400"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Benzinska postaja",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e3401"
+      },
+      "x": -1828.17919921875,
+      "y": 798.174865722656,
+      "z": 138.180618286133
+    },
+    "price": 5000000,
+    "income": 100000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e3406"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Prodavnica",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e3407"
+      },
+      "x": 170.403823852539,
+      "y": -1799.39636230469,
+      "z": 29.3157978057861
+    },
+    "price": 3000000,
+    "income": 60000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e340c"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Market",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e340d"
+      },
+      "x": 97.6915435791016,
+      "y": -1309.61511230469,
+      "z": 29.2790641784668
+    },
+    "price": 6000000,
+    "income": 135000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e340e"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Odlagalište",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e340f"
+      },
+      "x": 85.7828369140625,
+      "y": -1192.63366699219,
+      "z": 29.5517196655273
+    },
+    "price": 1000000,
+    "income": 30000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7d827dc6f3d53f9d9e340a"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Poduzeće",
+    "position": {
+      "_id": {
+        "$oid": "5c7d827dc6f3d53f9d9e340b"
+      },
+      "x": 355.228729248047,
+      "y": -1283.5810546875,
+      "z": 32.5250968933105
+    },
+    "price": 15000000,
+    "income": 285000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7ab459d0afa226ecacd3d6"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Salon automobila",
+    "position": {
+      "_id": {
+        "$oid": "5c7ab459d0afa226ecacd3d7"
+      },
+      "x": -50.5213394165039,
+      "y": -1089.72351074219,
+      "z": 26.4223499298096
+    },
+    "price": 10000000,
+    "income": 165000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5c7ab459d0afa226ecacd3dc"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Kafić",
+    "position": {
+      "_id": {
+        "$oid": "5c7ab459d0afa226ecacd3dd"
+      },
+      "x": -1271.72094726563,
+      "y": -1200.08081054688,
+      "z": 5.3662486076355
+    },
+    "price": 4000000,
+    "income": 85000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee17"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Popravak naočala",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee18"
+      },
+      "x": 931.679138183594,
+      "y": -1963.93591308594,
+      "z": 30.4074096679688
+    },
+    "price": 1400000,
+    "income": 55000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee15"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Parkiralište",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee16"
+      },
+      "x": -281.283050537109,
+      "y": -888.719970703125,
+      "z": 31.318021774292
+    },
+    "price": 2000000,
+    "income": 80000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee11"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Benzinska postaja",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee12"
+      },
+      "x": -523.674072265625,
+      "y": -1229.98999023438,
+      "z": 18.4517021179199
+    },
+    "price": 9500000,
+    "income": 140000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee13"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Parkiralište",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee14"
+      },
+      "x": -451.178161621094,
+      "y": -793.900329589844,
+      "z": 30.5429229736328
+    },
+    "price": 7000000,
+    "income": 155000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee19"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Auto praonica",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee1a"
+      },
+      "x": 869.645629882813,
+      "y": -2327.3857421875,
+      "z": 30.6029510498047
+    },
+    "price": 6500000,
+    "income": 140000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee1b"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Logistika",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee1c"
+      },
+      "x": 766.526672363281,
+      "y": -2482.12719726563,
+      "z": 20.1583786010742
+    },
+    "price": 12000000,
+    "income": 62000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee1f"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Izgradnja",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee20"
+      },
+      "x": 236.596038818359,
+      "y": -2506.52001953125,
+      "z": 6.48508024215698
+    },
+    "price": 3800000,
+    "income": 75000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee21"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Poduzeće",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee22"
+      },
+      "x": 998.463989257813,
+      "y": -1784.93469238281,
+      "z": 32.4669380187988
+    },
+    "price": 12000000,
+    "income": 550000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee23"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trgovina hrane",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee24"
+      },
+      "x": 1129.33666992188,
+      "y": -989.388732910156,
+      "z": 45.9678344726563
+    },
+    "price": 6500000,
+    "income": 90000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee25"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trafika",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee26"
+      },
+      "x": -1105.99670410156,
+      "y": -1699.99841308594,
+      "z": 4.37208604812622
+    },
+    "price": 1100000,
+    "income": 42000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee27"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Parkiralište",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee28"
+      },
+      "x": -1184.27685546875,
+      "y": -1509.46557617188,
+      "z": 4.64930534362793
+    },
+    "price": 4200000,
+    "income": 92000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee29"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Dućan s odjećom",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee2a"
+      },
+      "x": -1176.02709960938,
+      "y": -1568.08325195313,
+      "z": 4.35606098175049
+    },
+    "price": 1300000,
+    "income": 45000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee2d"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Restoran",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee2e"
+      },
+      "x": -1161.52709960938,
+      "y": -1532.50756835938,
+      "z": 4.53738784790039
+    },
+    "price": 4200000,
+    "income": 92000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ca50e21ac37684daec1ee2b"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trgovina dodacima",
+    "position": {
+      "_id": {
+        "$oid": "5ca50e21ac37684daec1ee2c"
+      },
+      "x": -1186.34387207031,
+      "y": -1553.94287109375,
+      "z": 4.36170387268066
+    },
+    "price": 1100000,
+    "income": 38000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5cae43ee0ac8e41694cd6e57"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Najam stana",
+    "position": {
+      "_id": {
+        "$oid": "5cae43ee0ac8e41694cd6e58"
+      },
+      "x": -962.943786621094,
+      "y": -1428.81494140625,
+      "z": 7.67916679382324
+    },
+    "price": 1000000,
+    "income": 30000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5cbc5181a1528d033a93bbb3"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Elektrana",
+    "position": {
+      "_id": {
+        "$oid": "5cbc5181a1528d033a93bbb4"
+      },
+      "x": 531.970764160156,
+      "y": -1664.41198730469,
+      "z": 29.2869548797607
+    },
+    "price": 30000000,
+    "income": 230000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5cdd64fcd88402109948eb83"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Kino",
+    "position": {
+      "_id": {
+        "$oid": "5cdd64fcd88402109948eb84"
+      },
+      "x": -1300.1240234375,
+      "y": -711.296569824219,
+      "z": 24.3201656341553
+    },
+    "price": 20000000,
+    "income": 200000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5ce9ad281b85fd1e89436507"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Klub",
+    "position": {
+      "_id": {
+        "$oid": "5ce9ad281b85fd1e89436508"
+      },
+      "x": -1655.00012207031,
+      "y": -1000.16345214844,
+      "z": 13.0174980163574
+    },
+    "price": 6000000,
+    "income": 132000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5cf12553fd8f9c5dd8e45f7d"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Hotel",
+    "position": {
+      "_id": {
+        "$oid": "5cf12553fd8f9c5dd8e45f7e"
+      },
+      "x": -871.1591796875,
+      "y": -2157.2060546875,
+      "z": 8.9361743927002
+    },
+    "price": 20000000,
+    "income": 200000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5d1e3a14f18b881959e517f1"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": " Stanica",
+    "position": {
+      "_id": {
+        "$oid": "5d1e3a14f18b881959e517f2"
+      },
+      "x": 2854.89672851563,
+      "y": 1479.85766601563,
+      "z": 24.7356224060059
+    },
+    "price": 40000000,
+    "income": 280000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5d1e3ac2f18b881959e52360"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Odlagalište",
+    "position": {
+      "_id": {
+        "$oid": "5d1e3ac2f18b881959e52361"
+      },
+      "x": 2403.88525390625,
+      "y": 3127.76245117188,
+      "z": 48.1531753540039
+    },
+    "price": 15000000,
+    "income": 150000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5d1e3c06f18b881959e53814"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Stanica",
+    "position": {
+      "_id": {
+        "$oid": "5d1e3c06f18b881959e53815"
+      },
+      "x": 2570.40209960938,
+      "y": 4667.78369140625,
+      "z": 34.0767631530762
+    },
+    "price": 6000000,
+    "income": 130000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5d2371e1f48b4f0265b1d6c8"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Poduzeće",
+    "position": {
+      "_id": {
+        "$oid": "5d2371e1f48b4f0265b1d6c9"
+      },
+      "x": 2872.87719726563,
+      "y": 4423.123046875,
+      "z": 48.737621307373
+    },
+    "price": 40000000,
+    "income": 260000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5d9124b500cf35204a86bc19"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Vesti N1",
+    "position": {
+      "_id": {
+        "$oid": "5d9124b500cf35204a86bc1a"
+      },
+      "x": -1635.76928710938,
+      "y": -1091.125,
+      "z": 13.0286340713501
+    },
+    "price": 3200000,
+    "income": 30000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5d91251700cf35204a86bc25"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Pekara",
+    "position": {
+      "_id": {
+        "$oid": "5d91251700cf35204a86bc26"
+      },
+      "x": -3047.34252929688,
+      "y": 615.520812988281,
+      "z": 7.31401634216309
+    },
+    "price": 10000000,
+    "income": 105000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5d924c50e46df54801de8e58"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Auto praonica",
+    "position": {
+      "_id": {
+        "$oid": "5d924c50e46df54801de8e59"
+      },
+      "x": 2516.08447265625,
+      "y": 4203.14453125,
+      "z": 39.995044708252
+    },
+    "price": 30000000,
+    "income": 200000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5d924cdae46df54801de8e73"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Poduzeće",
+    "position": {
+      "_id": {
+        "$oid": "5d924cdae46df54801de8e74"
+      },
+      "x": 287.247161865234,
+      "y": 2843.72998046875,
+      "z": 44.7041893005371
+    },
+    "price": 200000000,
+    "income": 2100000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5d924da9e46df54801de8e95"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trajekt",
+    "position": {
+      "_id": {
+        "$oid": "5d924da9e46df54801de8e96"
+      },
+      "x": 1236.05065917969,
+      "y": -2912.23706054688,
+      "z": 25.329984664917
+    },
+    "price": 120000000,
+    "income": 1100000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5d924e68e46df54801de8eb7"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Benzinska postaja",
+    "position": {
+      "_id": {
+        "$oid": "5d924e68e46df54801de8eb8"
+      },
+      "x": 1698.51525878906,
+      "y": 6425.87353515625,
+      "z": 32.7639045715332
+    },
+    "price": 50000000,
+    "income": 380000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5d924ee6e46df54801de8ec9"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Auto servis",
+    "position": {
+      "_id": {
+        "$oid": "5d924ee6e46df54801de8eca"
+      },
+      "x": 105.005500793457,
+      "y": 6613.59521484375,
+      "z": 32.3973503112793
+    },
+    "price": 30000000,
+    "income": 280000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5dcfea8c455cde09083f94fe"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Kafić \"Monster Bites\"",
+    "position": {
+      "_id": {
+        "$oid": "5dcfea8c455cde09083f94ff"
+      },
+      "x": 2544.5634765625,
+      "y": 2591.51782226563,
+      "z": 37.9448738098145
+    },
+    "price": 1000000,
+    "income": 30000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5dcfeb15455cde09083f9528"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Supermarket",
+    "position": {
+      "_id": {
+        "$oid": "5dcfeb15455cde09083f9529"
+      },
+      "x": 1726.90551757813,
+      "y": 4765.9287109375,
+      "z": 41.9066696166992
+    },
+    "price": 3000000,
+    "income": 55000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5dd42829b6b37a38abc062a4"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Salon automobila \"Sandy Shore\"",
+    "position": {
+      "_id": {
+        "$oid": "5dd42829b6b37a38abc062a5"
+      },
+      "x": 1289.45031738281,
+      "y": 2638.72216796875,
+      "z": 38.5500221252441
+    },
+    "price": 20000000,
+    "income": 140000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5dd428eab6b37a38abc062d5"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Tattoo Shop \"Sandy Shores\"",
+    "position": {
+      "_id": {
+        "$oid": "5dd428eab6b37a38abc062d6"
+      },
+      "x": 1865.89404296875,
+      "y": 3760.37646484375,
+      "z": 33.0018310546875
+    },
+    "price": 10000000,
+    "income": 88000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5dd42952b6b37a38abc062e4"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Bar \"U Joe\"",
+    "position": {
+      "_id": {
+        "$oid": "5dd42952b6b37a38abc062e5"
+      },
+      "x": 1980.13977050781,
+      "y": 3049.19506835938,
+      "z": 50.4318771362305
+    },
+    "price": 5000000,
+    "income": 47000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5dd429cdb6b37a38abc062ff"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Supermarket \"Paleto Bay\"",
+    "position": {
+      "_id": {
+        "$oid": "5dd429cdb6b37a38abc06300"
+      },
+      "x": -91.881103515625,
+      "y": 6515.07958984375,
+      "z": 32.0997848510742
+    },
+    "price": 10000000,
+    "income": 100000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5dd42a97b6b37a38abc06321"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Tvornica \"Los Santos\"",
+    "position": {
+      "_id": {
+        "$oid": "5dd42a97b6b37a38abc06322"
+      },
+      "x": 1742.59655761719,
+      "y": -1623.27453613281,
+      "z": 112.413284301758
+    },
+    "price": 40000000,
+    "income": 400000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5dd42b90b6b37a38abc06356"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Farma \"Gracesite\"",
+    "position": {
+      "_id": {
+        "$oid": "5dd42b90b6b37a38abc06357"
+      },
+      "x": 2309.93994140625,
+      "y": 4885.84716796875,
+      "z": 41.808277130127
+    },
+    "price": 20000000,
+    "income": 185000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5de197b68c98d20216ae2aba"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Saving Bank",
+    "position": {
+      "_id": {
+        "$oid": "5de197b68c98d20216ae2abb"
+      },
+      "x": -113.777862548828,
+      "y": 6473.5078125,
+      "z": 31.6267242431641
+    },
+    "price": 100000000,
+    "income": 1600000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5de19bd38c98d20216ae2b33"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Hotel Las Paletto",
+    "position": {
+      "_id": {
+        "$oid": "5de19bd38c98d20216ae2b34"
+      },
+      "x": -703.676147460938,
+      "y": 5790.1650390625,
+      "z": 17.5217895507813
+    },
+    "price": 65000000,
+    "income": 920000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a7972c8127b46184c4b34"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Stanica za tehnički pregled",
+    "position": {
+      "_id": {
+        "$oid": "5e0a7972c8127b46184c4b35"
+      },
+      "x": 905.692504882813,
+      "y": 3553.71533203125,
+      "z": 33.8204650878906
+    },
+    "price": 50000000,
+    "income": 800000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a7a1cc8127b46184c4b63"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Naftna stanica Paleto Bay",
+    "position": {
+      "_id": {
+        "$oid": "5e0a7a1cc8127b46184c4b64"
+      },
+      "x": -93.2443313598633,
+      "y": 6410.52001953125,
+      "z": 31.6404628753662
+    },
+    "price": 80000000,
+    "income": 1200000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a7ab2c8127b46184c4b8c"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trgovina odjeće",
+    "position": {
+      "_id": {
+        "$oid": "5e0a7ab2c8127b46184c4b8d"
+      },
+      "x": 1701.73217773438,
+      "y": 4829.2890625,
+      "z": 41.9705963134766
+    },
+    "price": 50000000,
+    "income": 800000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a7fbec8127b46184c4d29"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trgovina građevinskim materijalom",
+    "position": {
+      "_id": {
+        "$oid": "5e0a7fbec8127b46184c4d2a"
+      },
+      "x": 2709.77294921875,
+      "y": 3455.03173828125,
+      "z": 56.3173332214355
+    },
+    "price": 200000000,
+    "income": 2100000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a803bc8127b46184c4d44"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Paint SHOP",
+    "position": {
+      "_id": {
+        "$oid": "5e0a803bc8127b46184c4d45"
+      },
+      "x": 1658.38891601563,
+      "y": 4839.005859375,
+      "z": 42.0326080322266
+    },
+    "price": 50000000,
+    "income": 800000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a80abc8127b46184c4d5b"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Market 24/7",
+    "position": {
+      "_id": {
+        "$oid": "5e0a80abc8127b46184c4d5c"
+      },
+      "x": 1702.53369140625,
+      "y": 4916.3271484375,
+      "z": 42.0781364440918
+    },
+    "price": 100000000,
+    "income": 1600000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a8179c8127b46184c4d8d"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trgovina voćem",
+    "position": {
+      "_id": {
+        "$oid": "5e0a8179c8127b46184c4d8e"
+      },
+      "x": 1791.80163574219,
+      "y": 4594.1044921875,
+      "z": 37.6829299926758
+    },
+    "price": 25000000,
+    "income": 420000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a821cc8127b46184c4dad"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Benzinska postaja",
+    "position": {
+      "_id": {
+        "$oid": "5e0a821cc8127b46184c4dae"
+      },
+      "x": 2559.94897460938,
+      "y": 373.662780761719,
+      "z": 108.62126159668
+    },
+    "price": 150000000,
+    "income": 2000000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5e0a828fc8127b46184c4dc6"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Bishop's Chickens",
+    "position": {
+      "_id": {
+        "$oid": "5e0a828fc8127b46184c4dc7"
+      },
+      "x": 2580.8134765625,
+      "y": 464.327514648438,
+      "z": 108.61841583252
+    },
+    "price": 55000000,
+    "income": 990000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5e504d836182894ef3e69e6d"
+    },
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Restoran \"Pearls\"",
+    "position": {
+      "_id": {
+        "$oid": "5e504d836182894ef3e69e6e"
+      },
+      "x": -1830.49841308594,
+      "y": -1180.35095214844,
+      "z": 19.1685562133789
+    },
+    "price": 50000000,
+    "income": 800000,
+    "__v": 0,
+    "owner": null,
+    "forSale": null
+  },
+  {
+    "_id": {
+      "$oid": "5e504de76182894ef3e69e8a"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Tunning center \"LS Customs\"",
+    "position": {
+      "_id": {
+        "$oid": "5e504de76182894ef3e69e8b"
+      },
+      "x": -1142.47180175781,
+      "y": -1992.89331054688,
+      "z": 13.1641521453857
+    },
+    "price": 50000000,
+    "income": 800000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e504e4a6182894ef3e69e9d"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Hotel \"Crasstenbarg\"",
+    "position": {
+      "_id": {
+        "$oid": "5e504e4a6182894ef3e69e9e"
+      },
+      "x": -878.442993164063,
+      "y": -2111.685546875,
+      "z": 9.91829299926758
+    },
+    "price": 110000000,
+    "income": 1600000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e50517d6182894ef3e69f0e"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 7,
+    "name": "Stadion PANIC",
+    "position": {
+      "_id": {
+        "$oid": "5e50517d6182894ef3e69f0f"
+      },
+      "x": -282.343414306641,
+      "y": -1922.28662109375,
+      "z": 29.9460258483887
+    },
+    "price": 322000000,
+    "income": 2000000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5e52c0fa6182894ef3e6ce56"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "Trgovina",
+    "position": {
+      "_id": {
+        "$oid": "5e52c0fa6182894ef3e6ce57"
+      },
+      "x": 1703.08386230469,
+      "y": 4841.185546875,
+      "z": 42.0255813598633
+    },
+    "price": 80000000,
+    "income": 1400000,
+    "__v": 0,
+    "owner": null
+  },
+  {
+    "_id": {
+      "$oid": "5ea9631b8f68c04355aa32b0"
+    },
+    "forSale": null,
+    "paymentTime": null,
+    "paid": 1,
+    "name": "FRIDGIT",
+    "position": {
+      "_id": {
+        "$oid": "5ea9631b8f68c04355aa32b1"
+      },
+      "x": 868.657165527344,
+      "y": -1640.07507324219,
+      "z": 30.3371696472168
+    },
+    "price": 100000000,
+    "income": 1000000,
+    "__v": 0,
+    "owner": null
+  }
+]

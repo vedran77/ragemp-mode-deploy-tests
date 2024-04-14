@@ -1,0 +1,153 @@
+{
+	"allowedWeapons": [
+		{ "name": "WEAPON_CARBINERIFLE", "chance": 40 },
+		{
+			"name": "WEAPON_ADVANCEDRIFLE",
+			"chance": 40
+		},
+		{
+			"name": "WEAPON_ASSAULTRIFLE",
+			"chance": 40
+		},
+		{
+			"name": "WEAPON_SPECIALCARBINE",
+			"chance": 40
+		},
+		{ "name": "WEAPON_PUMPSHOTGUN", "chance": 20 },
+		{ "name": "WEAPON_SMG", "chance": 15 },
+		{
+			"name": "WEAPON_MICROSMG",
+			"chance": 10
+		},
+		{
+			"name": "WEAPON_PISTOL",
+			"chance": 5
+		},
+		{
+			"name": "WEAPON_COMBATPISTOL",
+			"chance": 5
+		}
+	],
+	"cases": [
+		{
+			"pos": { "x": -626.3253, "y": -239.0511, "z": 37.64523 },
+			"prop": "des_jewel_cab2_end",
+			"prop1": "des_jewel_cab2_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -625.2751, "y": -238.2881, "z": 37.64523 },
+			"prop": "des_jewel_cab3_end",
+			"prop1": "des_jewel_cab3_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -627.2115, "y": -234.8942, "z": 37.64523 },
+			"prop": "des_jewel_cab3_end",
+			"prop1": "des_jewel_cab3_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -626.1613, "y": -234.1315, "z": 37.64523 },
+			"prop": "des_jewel_cab4_end",
+			"prop1": "des_jewel_cab4_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -626.5439, "y": -233.6047, "z": 37.64523 },
+			"prop": "des_jewel_cab_end",
+			"prop1": "des_jewel_cab_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -627.5945, "y": -234.3678, "z": 37.64523 },
+			"prop": "des_jewel_cab_end",
+			"prop1": "des_jewel_cab_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -622.6159, "y": -232.5636, "z": 37.64523 },
+			"prop": "des_jewel_cab_end",
+			"prop1": "des_jewel_cab_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -620.5214, "y": -232.8823, "z": 37.64523 },
+			"prop": "des_jewel_cab4_end",
+			"prop1": "des_jewel_cab4_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -620.1764, "y": -230.7865, "z": 37.64523 },
+			"prop": "des_jewel_cab_end",
+			"prop1": "des_jewel_cab_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -621.5175, "y": -228.9474, "z": 37.64523 },
+			"prop": "des_jewel_cab3_end",
+			"prop1": "des_jewel_cab3_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -623.6147, "y": -228.6247, "z": 37.64523 },
+			"prop": "des_jewel_cab2_end",
+			"prop1": "des_jewel_cab2_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -623.9558, "y": -230.7263, "z": 37.64523 },
+			"prop": "des_jewel_cab4_end",
+			"prop1": "des_jewel_cab4_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -619.8483, "y": -234.9137, "z": 37.64523 },
+			"prop": "des_jewel_cab_end",
+			"prop1": "des_jewel_cab_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -618.7984, "y": -234.1509, "z": 37.64523 },
+			"prop": "des_jewel_cab3_end",
+			"prop1": "des_jewel_cab3_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -624.2796, "y": -226.6066, "z": 37.64523 },
+			"prop": "des_jewel_cab4_end",
+			"prop1": "des_jewel_cab4_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -625.33, "y": -227.3697, "z": 37.64523 },
+			"prop": "des_jewel_cab3_end",
+			"prop1": "des_jewel_cab3_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -619.2031, "y": -227.2482, "z": 37.64523 },
+			"prop": "des_jewel_cab2_end",
+			"prop1": "des_jewel_cab2_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -619.9662, "y": -226.198, "z": 37.64523 },
+			"prop": "des_jewel_cab_end",
+			"prop1": "des_jewel_cab_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -617.0856, "y": -230.1627, "z": 37.64523 },
+			"prop": "des_jewel_cab2_end",
+			"prop1": "des_jewel_cab2_start",
+			"broken": false
+		},
+		{
+			"pos": { "x": -617.8492, "y": -229.1128, "z": 37.64523 },
+			"prop": "des_jewel_cab3_end",
+			"prop1": "des_jewel_cab3_start",
+			"broken": false
+		}
+	]
+}

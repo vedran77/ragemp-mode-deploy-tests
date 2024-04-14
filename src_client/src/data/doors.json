@@ -1,0 +1,887 @@
+[
+  {
+    "id": 0,
+    "name": "LSSD Gate 1",
+    "locked": true,
+    "type": "door",
+    "hash": "prop_facgate_07b",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 397.8851,
+      "y": -1607.386,
+      "z": 28.34166
+    },
+    "distance": 6.1
+  },
+  {
+    "id": 1,
+    "name": "LSSD Gate 2",
+    "locked": true,
+    "type": "door",
+    "hash": "prop_facgate_08",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 413.3649,
+      "y": -1620.036,
+      "z": 28.34509
+    },
+    "distance": 6.1
+  },
+  {
+    "id": 2,
+    "name": "LSSD Gate 3",
+    "locked": true,
+    "type": "door",
+    "hash": "prop_facgate_08",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 418.2896,
+      "y": -1651.396,
+      "z": 28.2951
+    },
+    "distance": 6.1
+  },
+  {
+    "id": 3,
+    "name": "LSSD Back Door Right",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_lssddoor",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 369.8871,
+      "y": -1606.262,
+      "z": 29.43038
+    }
+  },
+  {
+    "id": 4,
+    "name": "LSSD Back Door Left",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_lssddoor",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 368.2126,
+      "y": -1608.242,
+      "z": 29.43038
+    }
+  },
+  {
+    "id": 5,
+    "name": "LSSD Front Door Left",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_lssddoor",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 362.182,
+      "y": -1584.057,
+      "z": 29.44576
+    }
+  },
+  {
+    "id": 6,
+    "name": "LSSD Front Door Right",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_lssddoor",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 360.5164,
+      "y": -1586.044,
+      "z": 29.44938
+    }
+  },
+  {
+    "id": 7,
+    "name": "LSSD Inner Door 1",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_ph_gendoor002",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 366.1795,
+      "y": -1588.067,
+      "z": 29.4472
+    }
+  },
+  {
+    "id": 8,
+    "name": "LSSD Inner Door 1",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_ph_gendoor002",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 362.3821,
+      "y": -1592.574,
+      "z": 29.44673
+    }
+  },
+  {
+    "id": 9,
+    "name": "LSSD Roof Door",
+    "locked": true,
+    "type": "door",
+    "hash": "v_ilev_arm_secdoor",
+    "authorities": ["lssd"],
+    "position": {
+      "x": 378.626,
+      "y": -1602.415,
+      "z": 37.09682
+    }
+  },
+
+  {
+    "id": 10,
+    "name": "MRPD Fence Gate Right",
+    "locked": true,
+    "type": "door",
+    "hash": "gabz_mrpd_bollards2",
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 410.0258,
+      "y": -1028.3286,
+      "z": 29.2202
+    },
+    "distance": 6.1
+  },
+  {
+    "id": 11,
+    "name": "MRPD Fence Gate Left",
+    "locked": true,
+    "type": "door",
+    "hash": "gabz_mrpd_bollards1",
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 410.0258,
+      "y": -1020.15955,
+      "z": 29.2202
+    },
+    "distance": 6.1
+  },
+  {
+    "id": 12,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 440.5201, "y": -977.6011, "z": 30.82319 }
+  },
+  {
+    "id": 13,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 445.4067, "y": -984.2014, "z": 30.82319 }
+  },
+  {
+    "id": 14,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 440.5201, "y": -986.2335, "z": 30.82319 }
+  },
+  {
+    "id": 15,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 458.6543, "y": -976.8864, "z": 30.82319 }
+  },
+  {
+    "id": 16,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 458.6543, "y": -990.6498, "z": 30.82319 }
+  },
+  {
+    "id": 17,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 458.0894, "y": -995.5247, "z": 30.82319 }
+  },
+  {
+    "id": 18,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 452.2663, "y": -995.5254, "z": 30.82319 }
+  },
+  {
+    "id": 19,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 438.1971, "y": -996.3167, "z": 30.82319 }
+  },
+  {
+    "id": 20,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 438.1971, "y": -993.9113, "z": 30.82319 }
+  },
+  {
+    "id": 21,
+    "type": "door",
+    "hash": "gabz_mrpd_reception_entrancedoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 440.7392, "y": -998.7462, "z": 30.8153 }
+  },
+  {
+    "id": 22,
+    "type": "door",
+    "hash": "gabz_mrpd_reception_entrancedoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 443.0618, "y": -998.7462, "z": 30.8153 }
+  },
+  {
+    "id": 23,
+    "type": "door",
+    "hash": "gabz_mrpd_reception_entrancedoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 458.2087, "y": -972.2543, "z": 30.81531 }
+  },
+  {
+    "id": 24,
+    "type": "door",
+    "hash": "gabz_mrpd_reception_entrancedoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 455.8862, "y": -972.2543, "z": 30.81531 }
+  },
+  {
+    "id": 25,
+    "type": "door",
+    "hash": "gabz_mrpd_room13_parkingdoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 464.1591, "y": -974.6656, "z": 26.3707 }
+  },
+  {
+    "id": 26,
+    "type": "door",
+    "hash": "gabz_mrpd_room13_parkingdoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 464.1566, "y": -997.5093, "z": 26.3707 }
+  },
+  {
+    "id": 27,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 469.9274, "y": -1000.544, "z": 26.40548 }
+  },
+  {
+    "id": 28,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 467.5222, "y": -1000.544, "z": 26.40548 }
+  },
+  {
+    "id": 29,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 471.3753, "y": -987.4374, "z": 26.40548 }
+  },
+  {
+    "id": 30,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 471.3753, "y": -985.0319, "z": 26.40548 }
+  },
+  {
+    "id": 31,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 467.3686,
+      "y": -1014.406,
+      "z": 26.48382
+    }
+  },
+  {
+    "id": 32,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 469.7743,
+      "y": -1014.406,
+      "z": 26.48382
+    }
+  },
+  {
+    "id": 33,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 471.3679,
+      "y": -1007.793,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 34,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 471.3758,
+      "y": -1010.198,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 35,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 448.9846,
+      "y": -995.5264,
+      "z": 35.10376
+    }
+  },
+  {
+    "id": 36,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 448.9868,
+      "y": -990.2007,
+      "z": 35.10376
+    }
+  },
+  {
+    "id": 37,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 448.9868,
+      "y": -981.5785,
+      "z": 35.10376
+    }
+  },
+  {
+    "id": 38,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 459.9454,
+      "y": -990.7053,
+      "z": 35.10398
+    }
+  },
+  {
+    "id": 39,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 459.9454,
+      "y": -981.0742,
+      "z": 35.10398
+    }
+  },
+  {
+    "id": 40,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 481.0084,
+      "y": -1004.118,
+      "z": 26.48005
+    }
+  },
+  {
+    "id": 41,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 479.6638,
+      "y": -997.91,
+      "z": 26.4065
+    }
+  },
+  {
+    "id": 42,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 482.0686,
+      "y": -997.91,
+      "z": 26.4065
+    }
+  },
+  {
+    "id": 43,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 478.2892,
+      "y": -997.9101,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 44,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 482.6703,
+      "y": -995.7285,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 45,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 482.6699,
+      "y": -992.2991,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 46,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 482.6701,
+      "y": -987.5792,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 47,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 482.6694,
+      "y": -983.9868,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 48,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 475.8323,
+      "y": -990.4839,
+      "z": 26.40548
+    }
+  },
+  {
+    "id": 49,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 469.4406,
+      "y": -985.0313,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 50,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 469.4406,
+      "y": -987.4377,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 51,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 472.9777,
+      "y": -989.8247,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 52,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 475.3837,
+      "y": -989.8247,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 53,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 476.7512,
+      "y": -999.6307,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 54,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 485.6133,
+      "y": -1002.902,
+      "z": 30.78697
+    }
+  },
+  {
+    "id": 55,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 488.0184,
+      "y": -1002.902,
+      "z": 30.78697
+    }
+  },
+  {
+    "id": 56,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 487.4378,
+      "y": -1000.189,
+      "z": 30.78697
+    }
+  },
+  {
+    "id": 57,
+    "type": "door",
+    "hash": "gabz_mrpd_door_05",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 479.7534,
+      "y": -988.6204,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 58,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 479.7534,
+      "y": -986.2151,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 59,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 464.3086,
+      "y": -984.5284,
+      "z": 43.77124
+    }
+  },
+  {
+    "id": 60,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 472.9781,
+      "y": -984.3722,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 61,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 475.3837,
+      "y": -984.3722,
+      "z": 30.82319
+    }
+  },
+  {
+    "id": 62,
+    "type": "door",
+    "hash": "gabz_mrpd_reception_entrancedoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 434.7444,
+      "y": -980.7556,
+      "z": 30.8153
+    }
+  },
+  {
+    "id": 63,
+    "type": "door",
+    "hash": "gabz_mrpd_reception_entrancedoor",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 434.7444,
+      "y": -983.0781,
+      "z": 30.8153
+    }
+  },
+  {
+    "id": 64,
+    "type": "door",
+    "hash": "gabz_mrpd_door_03",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 479.7507,
+      "y": -999.629,
+      "z": 30.78917
+    }
+  },
+  {
+    "id": 65,
+    "type": "door",
+    "hash": "gabz_mrpd_garage_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 431.4119,
+      "y": -1000.772,
+      "z": 26.69661
+    },
+    "distance": 5.1
+  },
+  {
+    "id": 66,
+    "type": "door",
+    "hash": "gabz_mrpd_garage_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 452.3005,
+      "y": -1000.772,
+      "z": 26.69661
+    },
+    "distance": 5.1
+  },
+  {
+    "id": 67,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": {
+      "x": 476.6157,
+      "y": -1008,
+      "z": 26.48005
+    }
+  },
+  {
+    "id": 68,
+    "type": "door",
+    "hash": "gabz_mrpd_door_04",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 475.9539, "y": -1010.819, "z": 26.40639 }
+  },
+  {
+    "id": 69,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 484.1764, "y": -1007.734, "z": 26.48005 }
+  },
+  {
+    "id": 70,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 486.9131, "y": -1012.189, "z": 26.48005 }
+  },
+  {
+    "id": 71,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 483.9127, "y": -1012.189, "z": 26.48005 }
+  },
+  {
+    "id": 72,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 480.9128, "y": -1012.189, "z": 26.48005 }
+  },
+  {
+    "id": 73,
+    "type": "door",
+    "hash": "gabz_mrpd_cells_door",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 477.9126, "y": -1012.189, "z": 26.48005 }
+  },
+  {
+    "id": 74,
+    "type": "door",
+    "hash": "gabz_mrpd_door_01",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 479.06, "y": -1003.173, "z": 26.4065 }
+  },
+  {
+    "id": 75,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 479.0624, "y": -985.0323, "z": 26.40548 }
+  },
+  {
+    "id": 76,
+    "type": "door",
+    "hash": "gabz_mrpd_door_02",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 479.0624, "y": -987.4376, "z": 26.40548 }
+  },
+  {
+    "id": 79,
+    "type": "door",
+    "hash": "hei_prop_station_gate",
+    "locked": true,
+    "authorities": ["lspd", "lssd"],
+    "position": { "x": 488.8948, "y": -1020.0441, "z": 28.213678 },
+    "distance": 5.1
+  },
+  {
+    "id": 80,
+    "name": "LSFD Ramp 1",
+    "type": "ramp",
+    "hash": "prop_sec_barrier_ld_01a",
+    "authorities": ["lspd", "lssd", "lsfd"],
+    "position": { "x": 277.826263, "y": -601.404968, "z": 43.05345 },
+    "rotation": { "x": 0, "y": 0, "z": -79.0 },
+    "openRotation": { "x": 0, "y": -80.0, "z": -79.0 },
+    "distance": 6.1
+  },
+  {
+    "id": 81,
+    "name": "LSFD Ramp 2",
+    "type": "ramp",
+    "hash": "prop_sec_barrier_ld_01a",
+    "authorities": ["lspd", "lssd", "lsfd"],
+    "position": { "x": 290.599884, "y": -568.2139, "z": 43.1718979 },
+    "rotation": { "x": 0, "y": 0, "z": -111.0 },
+    "openRotation": { "x": 0, "y": -80.0, "z": -111.0 },
+    "distance": 6.1
+  },
+  {
+    "id": 82,
+    "name": "Casino Ramp 1",
+    "type": "ramp",
+    "hash": "prop_sec_barrier_ld_01a",
+    "authorities": ["lspd", "lssd", "lsfd"],
+    "position": { "x": 894.98, "y": 20.53, "z": 78.73 },
+    "rotation": { "x": 0, "y": 0, "z": -32.0 },
+    "openRotation": { "x": 0, "y": -80.0, "z": -32.0 },
+    "distance": 6.1
+  },
+  {
+    "id": 83,
+    "name": "Casino Ramp 2",
+    "type": "ramp",
+    "hash": "prop_sec_barrier_ld_01a",
+    "authorities": ["lspd", "lssd", "lsfd"],
+    "position": { "x": 933.930054, "y": 88.80751, "z": 78.94295 },
+    "rotation": { "x": 0, "y": 0, "z": -129.0 },
+    "openRotation": { "x": 0, "y": -80.0, "z": -129.0 },
+    "distance": 6.1
+  }
+]

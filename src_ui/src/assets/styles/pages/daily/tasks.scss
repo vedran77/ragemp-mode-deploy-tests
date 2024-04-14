@@ -1,0 +1,53 @@
+.daily_tasks {
+  position: relative;
+  padding: 0 2%;
+  z-index: 1;
+
+  &-title {
+    position: absolute;
+    top: 5%;
+    right: 7%;
+    margin: 0;
+    z-index: 2;
+    line-height: 1;
+    text-align: right;
+  }
+
+  &-container {
+    padding: 5% 5% 5%;
+    padding-top: 40%;
+    z-index: 2;
+    background: rgb(17, 25, 40);
+    background: linear-gradient(
+      210deg,
+      rgba(17, 25, 40, 1) 0%,
+      rgba(0, 0, 0, 1) 100%
+    );
+  }
+
+  &-items {
+    padding-right: 4%;
+    height: 18vh;
+
+    &::-webkit-scrollbar {
+      width: 0.5vw;
+      overflow: hidden;
+    }
+    &::-webkit-scrollbar-track {
+      border-radius: 0.5vw;
+      background: $gh-green;
+    }
+    &::-webkit-scrollbar-thumb {
+      border-radius: 0.5vw;
+      background: $white;
+    }
+  }
+
+  &-item {
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.1vh solid #fff;
+    font-weight: 200;
+  }
+}

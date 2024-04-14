@@ -1,0 +1,54 @@
+.character_slider {
+	padding: 2% 8%;
+	margin-bottom: 6%;
+	background: linear-gradient(90deg, #040303 -22.81%, rgba(11, 7, 7, 0) 105.81%);
+	border-left: 3px solid #a6ff00;
+	border-radius: 14px;
+
+	div.rc-slider {
+		margin-bottom: 2%;
+		padding: 6% 0%;
+		height: 0.3vw;
+		border-radius: 0.5vw;
+
+		&-rail {
+			height: inherit;
+			background: rgba($color: #ababab, $alpha: 0.3);
+			border-radius: 0.5vw;
+		}
+
+		&-track {
+			height: inherit;
+			background-color: rgba($color: #ababab, $alpha: 0.3);
+			border-radius: 0.5vw;
+		}
+
+		&-step {
+			height: inherit;
+		}
+
+		&-handle {
+			margin-top: -0.7vw;
+			width: 1.2em;
+			height: 1.2em;
+			border-radius: 50%;
+			background: $gh-green;
+			border: 0.1vh solid $gh-green;
+
+			&:focus {
+				background-color: $gh-green;
+				box-shadow: none;
+				border: 0.1vh solid $gh-green;
+			}
+
+			&:hover {
+				border: 0.1vh solid $gh-green;
+			}
+
+			&:active {
+				border-color: $gh-green;
+				box-shadow: 0 0 0.3vw $gh-green;
+			}
+		}
+	}
+}

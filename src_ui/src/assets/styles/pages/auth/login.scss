@@ -1,0 +1,48 @@
+.auth_login {
+  position: relative;
+  padding: 4%;
+  width: 40%;
+
+  & > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  &-container {
+    display: flex;
+    align-items: center;
+  }
+
+  .primary-title {
+    margin-top: 0;
+    text-align: center;
+  }
+
+  form {
+    padding: 0% 4%;
+    width: 100%;
+
+    button[type='submit'] {
+      margin-left: auto;
+      width: 45;
+    }
+
+    .buttons {
+      margin-top: 10%;
+      display: flex;
+      justify-content: space-between;
+      gap: 5%;
+    }
+  }
+
+  &-forgot {
+    font-weight: 200;
+    text-decoration: underline;
+    display: block;
+    margin-top: -2vw;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

@@ -1,0 +1,9111 @@
+{
+	"lssd": [
+		{
+			"name": "LSSD Class A",
+			"variations": [
+				{
+					"name": "Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "38",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "200",
+							"texture": "2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "13",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Deputy II",
+					"gender": "male",
+					"components": [
+						{ "id": "10", "drawable": "11", "texture": "0" }
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{ "id": "10", "drawable": "11", "texture": "2" }
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "6"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "8"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "9"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Sheriff",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "UnderSheriff",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "11"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sheriff",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "12"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "51",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "202",
+							"texture": "2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "13",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Deputy II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "6"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "8"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "9"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Sheriff",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "UnderSheriff",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "11"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sheriff",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "12"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Class B",
+			"variations": [
+				{
+					"name": "Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "38",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "13",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "193",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "6"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "8"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "9"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Sheriff",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "51",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "195",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "6"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "8"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "9"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Sheriff",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Class C",
+			"variations": [
+				{
+					"name": "Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "11",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "38",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "13",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "190",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "1",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "6"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "8"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "9"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Sheriff",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "9",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "51",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "192",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "1",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "9",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "6"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "8"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "9"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Sheriff",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Jacket",
+			"variations": [
+				{
+					"name": "Class A",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "38",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "19",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "30",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "13",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class B/C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "28",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "135",
+							"texture": "22"
+						}
+					]
+				},
+				{
+					"name": "Class A",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "51",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "279",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "13",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class B/C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "30",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "134",
+							"texture": "22"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Raincoat",
+			"variations": [
+				{
+					"name": "Open",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "65",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "32",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "189",
+							"texture": "7"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "135",
+							"texture": "22"
+						}
+					]
+				},
+				{
+					"name": "Close",
+					"gender": "male",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "188",
+							"texture": "7"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "135",
+							"texture": "22"
+						}
+					]
+				},
+				{
+					"name": "Hooded",
+					"gender": "male",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "218",
+							"texture": "9"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "57",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Open",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "45",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "36",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "191",
+							"texture": "7"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "134",
+							"texture": "22"
+						}
+					]
+				},
+				{
+					"name": "Close",
+					"gender": "female",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "190",
+							"texture": "7"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "134",
+							"texture": "22"
+						}
+					]
+				},
+				{
+					"name": "Hooded",
+					"gender": "female",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "228",
+							"texture": "9"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "57",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Coat",
+			"variations": [
+				{
+					"name": "Class A",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "19",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "16",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "13",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class B/C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "28",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "2",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Winter",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "42",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "26",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "8",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Class A",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "49",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "41",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "44",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "13",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class B/C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "30",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "5",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Winter",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "28",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "8",
+							"texture": "1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Bicycle Uniform",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "19",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "12",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "37",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "94",
+							"texture": "2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "49",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "31",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "14",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "85",
+							"texture": "2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "47",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD K-9 Class B",
+			"variations": [
+				{
+					"name": "Senior Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "87",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "65",
+							"texture": "2"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "209",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Senior Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "20",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "20",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "20",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "Senior Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "90",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "65",
+							"texture": "2"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "225",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Senior Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "2"
+						},
+						{
+							"id": "11",
+							"drawable": "90",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD K-9 Class C",
+			"variations": [
+				{
+					"name": "Senior Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "11",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "87",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "65",
+							"texture": "1"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "212",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Senior Deputy",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "20",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "20",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "2",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "20",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "2",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Senior Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "9",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "90",
+							"texture": "7"
+						},
+						{
+							"id": "5",
+							"drawable": "65",
+							"texture": "2"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "226",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Senior Deputy",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "9",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Master FTO",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "9",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "2",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "4"
+						},
+						{
+							"id": "10",
+							"drawable": "2",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Dirtbike Patrol",
+			"variations": [
+				{
+					"name": "Dirtbike Patrol",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "17",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "67",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "47",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "55",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "20",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "152",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "16",
+							"texture": "1"
+						},
+						{
+							"id": "1",
+							"drawable": "25",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Dirtbike Patrol",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "69",
+							"texture": "10"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "48",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "32",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "149",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "16",
+							"texture": "1"
+						},
+						{
+							"id": "1",
+							"drawable": "27",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Detective Suit",
+			"variations": [
+				{
+					"name": "Suit",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "10",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "68",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "38",
+							"texture": "3,5-8"
+						},
+						{
+							"id": "8",
+							"drawable": "10",
+							"texture": "0,3-7"
+						},
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "4",
+							"texture": "0,1,4-5"
+						}
+					]
+				},
+				{
+					"name": "Suit",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "68",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "64",
+							"texture": "0-4"
+						},
+						{
+							"id": "9",
+							"drawable": "25",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "24",
+							"texture": "0,1,3,6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Detective",
+			"variations": [
+				{
+					"name": "formal",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "10",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "12",
+							"texture": "3,5-8"
+						},
+						{
+							"id": "9",
+							"drawable": "23",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "12",
+							"texture": "0,3-7"
+						}
+					]
+				},
+				{
+					"name": "formal",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "25",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "27",
+							"texture": "0,3-5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Detective Winbreaker",
+			"variations": [
+				{
+					"name": "Windbreaker",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "12",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "10",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "60",
+							"texture": "1"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "11",
+							"texture": "3,5-8"
+						},
+						{
+							"id": "9",
+							"drawable": "17",
+							"texture": "3"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "36",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "Detective Winbreaker",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "60",
+							"texture": "1"
+						},
+						{
+							"id": "6",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "39",
+							"texture": "0,3,4,13,14"
+						},
+						{
+							"id": "9",
+							"drawable": "21",
+							"texture": "3"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "168",
+							"texture": "4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Pilot",
+			"variations": [
+				{
+					"name": "Visor Up",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "64",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "43",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "108",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "78",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Visor Down",
+					"gender": "male",
+					"props": [
+						{
+							"id": "0",
+							"drawable": "79",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Visor Up",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "36",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "66",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "30",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "99",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "77",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Visor Down",
+					"gender": "female",
+					"props": [
+						{
+							"id": "0",
+							"drawable": "78",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD SWAT",
+			"variations": [
+				{
+					"name": "Operator",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "110",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "27",
+							"texture": "4-5"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "220",
+							"texture": "1-2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "59",
+							"texture": "1"
+						},
+						{
+							"id": "1",
+							"drawable": "23",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Operator",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "111",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "30",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "36",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "81",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "29",
+							"texture": "0-1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "230",
+							"texture": "1-2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "59",
+							"texture": "1"
+						},
+						{
+							"id": "1",
+							"drawable": "25",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSSD Gang Task Force",
+			"variations": [
+				{
+					"name": "Gang Task Force",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "121",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "30",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "49",
+							"texture": "0-3"
+						},
+						{
+							"id": "5",
+							"drawable": "68",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "63",
+							"texture": "4"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "115",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "7",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "73",
+							"texture": "0-2,18"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "135",
+							"texture": "5"
+						}
+					]
+				},
+				{
+					"name": "Gang Task Force",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "51",
+							"texture": "0-4"
+						},
+						{
+							"id": "5",
+							"drawable": "68",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "55",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "81",
+							"texture": "1"
+						},
+						{
+							"id": "9",
+							"drawable": "7",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "75",
+							"texture": "0-3"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "134",
+							"texture": "5"
+						}
+					]
+				}
+			]
+		}
+	],
+	"lspd": [
+		{
+			"name": "LSPD Class A",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "35",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "200",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant I",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "4"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "5"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "202",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "4"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "5"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Class B",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "35",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "193",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "4"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "5"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "195",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "4"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "5"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Class C",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "11",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "35",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "190",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant I",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "4"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "5"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "9",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "192",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Captain",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Commander",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Deputy Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Assistant Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "4"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Chief",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "5"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Jacket",
+			"variations": [
+				{
+					"name": "Class A",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "35",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "19",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "29",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class B/C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "28",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class A",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "31",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "200",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Class B/C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "9",
+							"drawable": "30",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Raincoat",
+			"variations": [
+				{
+					"name": "Open",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "35",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "28",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "187",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Open",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "30",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "189",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Motorcycle Class A",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "22",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "32",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "13",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "200",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "17",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant I",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "45",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "202",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "17",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "53",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Motorcycle Class B",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "22",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "32",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "13",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "193",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "17",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "195",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "17",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Motorcycle Class C",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "26",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "32",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "13",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "56",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "190",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "17",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant I",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "44",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "28",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "31",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "34",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "192",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "17",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "3"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Lieutenant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "52",
+							"texture": "2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Bicycle Uniform",
+			"variations": [
+				{
+					"name": "Officer",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "19",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "12",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "37",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "93",
+							"texture": "2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "49",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "31",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "14",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "84",
+							"texture": "2"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "47",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD K-9 Class B",
+			"variations": [
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "87",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "37",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "101",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "12",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "3",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "90",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "92",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "11",
+							"texture": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD K-9 Class C",
+			"variations": [
+				{
+					"name": "Officer III",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "11",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "87",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "37",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "102",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant I",
+					"gender": "male",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "male",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "Officer III",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "9",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "90",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "2",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "93",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Officer III+1",
+					"gender": "female",
+					"components": [
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Sergeant",
+					"gender": "female",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "Sergeant II",
+					"gender": "female",
+					"components": [
+						{
+							"id": "5",
+							"drawable": "74",
+							"texture": "1"
+						},
+						{
+							"id": "10",
+							"drawable": "14",
+							"texture": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Dirtbike Patrol",
+			"variations": [
+				{
+					"name": "Dirtbike Patrol",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "17",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "67",
+							"texture": "11"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "47",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "55",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "18",
+							"texture": "7"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "152",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "1",
+							"drawable": "25",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Dirtbike Patrol",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "69",
+							"texture": "11"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "48",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "1",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "32",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "22",
+							"texture": "7"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "149",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "1",
+							"drawable": "27",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD Pilot",
+			"variations": [
+				{
+					"name": "Visor Up",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "64",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "67",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "108",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "78",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Visor Down",
+					"gender": "male",
+					"props": [
+						{
+							"id": "0",
+							"drawable": "79",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Visor Up",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "17",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "66",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "8",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "49",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "99",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "77",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Visor Down",
+					"gender": "female",
+					"props": [
+						{
+							"id": "0",
+							"drawable": "78",
+							"texture": "1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSPD SWAT",
+			"variations": [
+				{
+					"name": "Operator",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "185",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "179",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "31",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "110",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "220",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "150",
+							"texture": "0"
+						},
+						{
+							"id": "1",
+							"drawable": "21",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Operator",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "185",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "215",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "30",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "25",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "81",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "230",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "149",
+							"texture": "0"
+						},
+						{
+							"id": "1",
+							"drawable": "22",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Detective Suit",
+			"variations": [
+				{
+					"name": "Suit",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "10",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "68",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "38",
+							"texture": "3,5-8"
+						},
+						{
+							"id": "8",
+							"drawable": "178",
+							"texture": "0-4,10,13-17"
+						},
+						{
+							"id": "9",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "4",
+							"texture": "0-1,3-6"
+						}
+					]
+				},
+				{
+					"name": "Suit",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "68",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "64",
+							"texture": "0-4"
+						},
+						{
+							"id": "9",
+							"drawable": "26",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "24",
+							"texture": "0,1,3,6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Detective",
+			"variations": [
+				{
+					"name": "formal",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "4",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "10",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "10",
+							"texture": "3,5-8"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "349",
+							"texture": "0-4,10,13-17"
+						}
+					]
+				},
+				{
+					"name": "formal",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "26",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "27",
+							"texture": "0,3-5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Detective Winbreaker",
+			"variations": [
+				{
+					"name": "Windbreaker",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "12",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "10",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "59",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "10",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "179",
+							"texture": "0-4,10,13-17"
+						},
+						{
+							"id": "9",
+							"drawable": "17",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "325",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Detective Winbreaker",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "0,3-5"
+						},
+						{
+							"id": "5",
+							"drawable": "59",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "39",
+							"texture": "0,3,4,13,14"
+						},
+						{
+							"id": "9",
+							"drawable": "21",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "318",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		}
+	],
+	"lsfd": [
+		{
+			"name": "LSFD EMT",
+			"variations": [
+				{
+					"name": "EMT Class B",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "86",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "57",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "30",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "54",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "75",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "EMT Class C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "92",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "74",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "57",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "249",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "EMT Class B",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "105",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "57",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "14",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "26",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "EMT Uniform Class C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "106",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "25",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "65",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "257",
+							"texture": "1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSCoFD EMT",
+			"variations": [
+				{
+					"name": "EMT Class B",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "86",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "37",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "30",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "54",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "75",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "EMT Class C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "92",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "74",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "58",
+							"texture": "1"
+						},
+						{
+							"id": "11",
+							"drawable": "249",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "EMT Class B",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "105",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "37",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "14",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "26",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "EMT Uniform Class C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "106",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "25",
+							"texture": "2"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "66",
+							"texture": "1"
+						},
+						{
+							"id": "11",
+							"drawable": "257",
+							"texture": "1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "BCFD EMT",
+			"variations": [
+				{
+					"name": "EMT Uniform Class B",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "86",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "38",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "30",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "54",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "75",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "EMT Class C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "92",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "74",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "58",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "249",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "EMT Uniform Class B",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "105",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "38",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "14",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "26",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "EMT Uniform Class C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "106",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "25",
+							"texture": "4"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "66",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "257",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "SAMS EMT",
+			"variations": [
+				{
+					"name": "EMT Class B",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "86",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "71",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "30",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "54",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "29",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "214",
+							"texture": "6"
+						}
+					]
+				},
+				{
+					"name": "EMT Class C",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "92",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "213",
+							"texture": "6"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "male",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "59",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "249",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "EMT Class B",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "105",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "71",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "14",
+							"texture": "0-3"
+						},
+						{
+							"id": "8",
+							"drawable": "6",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "33",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "218",
+							"texture": "6"
+						}
+					]
+				},
+				{
+					"name": "EMT Uniform Class C",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "106",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "219",
+							"texture": "6"
+						}
+					]
+				},
+				{
+					"name": "EMT Jacket",
+					"gender": "female",
+					"components": [
+						{
+							"id": "3",
+							"drawable": "101",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "67",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "257",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSFD Firefighter",
+			"variations": [
+				{
+					"name": "Turnouts",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "120",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "315",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "45",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "SCBA",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "151",
+							"texture": "1"
+						},
+						{
+							"id": "11",
+							"drawable": "314",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "45",
+							"texture": "0"
+						},
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Turnouts",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "111",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "326",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "44",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "SCBA",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "187",
+							"texture": "1"
+						},
+						{
+							"id": "11",
+							"drawable": "325",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "44",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSFD First Responder",
+			"variations": [
+				{
+					"name": "Bunker Pants",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "120",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "73",
+							"texture": "14"
+						}
+					]
+				},
+				{
+					"name": "Fire Tee",
+					"gender": "male",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Bunker Pants",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "12",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "224",
+							"texture": "21"
+						}
+					]
+				},
+				{
+					"name": "Fire Tee",
+					"gender": "female",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "10",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSCoFD Firefighter",
+			"variations": [
+				{
+					"name": "Turnouts",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "120",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "17",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "315",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "45",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "SCBA",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "151",
+							"texture": "1"
+						},
+						{
+							"id": "11",
+							"drawable": "314",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "45",
+							"texture": "3"
+						},
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Turnouts",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "111",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "126",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "26",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "16",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "326",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "44",
+							"texture": "3"
+						}
+					]
+				},
+				{
+					"name": "SCBA",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "187",
+							"texture": "1"
+						},
+						{
+							"id": "11",
+							"drawable": "325",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "44",
+							"texture": "3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "LSCoFD First Responder",
+			"variations": [
+				{
+					"name": "Bunker Pants",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "120",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "73",
+							"texture": "15"
+						}
+					]
+				},
+				{
+					"name": "Fire Tee",
+					"gender": "male",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Bunker Pants",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "126",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "12",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "224",
+							"texture": "22"
+						}
+					]
+				},
+				{
+					"name": "Fire Tee",
+					"gender": "female",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "BCFD Firefighter",
+			"variations": [
+				{
+					"name": "Turnouts",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "96",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "120",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "15",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "315",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "45",
+							"texture": "6"
+						}
+					]
+				},
+				{
+					"name": "SCBA",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "151",
+							"texture": "0-1"
+						},
+						{
+							"id": "11",
+							"drawable": "314",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "45",
+							"texture": "6"
+						},
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						}
+					]
+				},
+				{
+					"name": "Turnouts",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "111",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "126",
+							"texture": "0"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "24",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "17",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "326",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "44",
+							"texture": "6"
+						}
+					]
+				},
+				{
+					"name": "SCBA",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "187",
+							"texture": "0-1"
+						},
+						{
+							"id": "11",
+							"drawable": "325",
+							"texture": "1"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "44",
+							"texture": "6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "BCFD First Responder",
+			"variations": [
+				{
+					"name": "Bunker Pants",
+					"gender": "male",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "120",
+							"texture": "1"
+						},
+						{
+							"id": "5",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "51",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "18",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "88",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "73",
+							"texture": "16"
+						}
+					]
+				},
+				{
+					"name": "Fire Tee",
+					"gender": "male",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "25",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "10",
+							"texture": "1"
+						}
+					]
+				},
+				{
+					"name": "Bunker Pants",
+					"gender": "female",
+					"components": [
+						{
+							"id": "1",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "3",
+							"drawable": "14",
+							"texture": "0"
+						},
+						{
+							"id": "4",
+							"drawable": "126",
+							"texture": "2"
+						},
+						{
+							"id": "5",
+							"drawable": "48",
+							"texture": "0"
+						},
+						{
+							"id": "6",
+							"drawable": "52",
+							"texture": "0"
+						},
+						{
+							"id": "7",
+							"drawable": "12",
+							"texture": "0"
+						},
+						{
+							"id": "8",
+							"drawable": "7",
+							"texture": "0"
+						},
+						{
+							"id": "9",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "10",
+							"drawable": "0",
+							"texture": "0"
+						},
+						{
+							"id": "11",
+							"drawable": "224",
+							"texture": "23"
+						}
+					]
+				},
+				{
+					"name": "Fire Tee",
+					"gender": "female",
+					"components": [
+						{
+							"id": "4",
+							"drawable": "3",
+							"texture": "3"
+						},
+						{
+							"id": "7",
+							"drawable": "0",
+							"texture": "0"
+						}
+					],
+					"props": [
+						{
+							"id": "0",
+							"drawable": "10",
+							"texture": "1"
+						}
+					]
+				}
+			]
+		}
+	],
+	"gov": []
+}

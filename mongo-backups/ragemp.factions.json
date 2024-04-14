@@ -1,0 +1,3851 @@
+[
+  {
+    "_id": {
+      "$oid": "60637b03a2ea95f769dfd6d8"
+    },
+    "money": 41962,
+    "materials": 10220,
+    "inventory": [
+      {
+        "name": "medkit",
+        "amount": 1,
+        "data": {
+          "faction": "lsfd"
+        },
+        "cell": 2
+      },
+      {
+        "name": "medkit",
+        "amount": 1,
+        "data": {
+          "faction": "lsfd"
+        },
+        "cell": 1
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 500,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074ec"
+        },
+        "name": "Student",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1000,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074ed"
+        },
+        "name": "Internista",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1300,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074ee"
+        },
+        "name": "Paramedic",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1500,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074ef"
+        },
+        "name": "Doctor",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2000,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f0"
+        },
+        "name": "Narcologist",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2800,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f1"
+        },
+        "name": "Psychiatrist",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 3500,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f2"
+        },
+        "name": "Family doctor",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 4000,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f3"
+        },
+        "name": "Surger",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 4500,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f4"
+        },
+        "name": "Deputy Head of Department",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 5000,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f5"
+        },
+        "name": "Chief of Department",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 6500,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f6"
+        },
+        "name": "Assistant Director",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 7000,
+        "_id": {
+          "$oid": "6079d4a0b3e9dfe0e74074f7"
+        },
+        "name": "Director",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "leader": true,
+          "members": true
+        }
+      }
+    ],
+    "members": [
+      {
+        "rank": {
+          "$oid": "6079d4a0b3e9dfe0e74074f6"
+        },
+        "userId": {
+          "$oid": "65b1c06e373123a8602c2609"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65c42267eee27a398a49104f"
+        },
+        "rank": {
+          "$oid": "6079d4a0b3e9dfe0e74074f7"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65df3a20196b2f220b357d8f"
+        },
+        "rank": {
+          "$oid": "6079d4a0b3e9dfe0e74074f7"
+        }
+      }
+    ],
+    "name": "lsfd",
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6071f816465856926b46564a"
+    },
+    "money": 0,
+    "materials": 5024,
+    "inventory": [
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 12
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 14
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 76
+      },
+      {
+        "name": "12gauge",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 62
+      },
+      {
+        "name": "12gauge",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 63
+      },
+      {
+        "name": "12gauge",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 65
+      },
+      {
+        "name": "12gauge",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 61
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 13
+      },
+      {
+        "name": "burger",
+        "amount": 50,
+        "cell": 127
+      },
+      {
+        "name": "burger",
+        "amount": 50,
+        "cell": 126
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 3
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 4
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 5
+      },
+      {
+        "name": "12gauge",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 64
+      },
+      {
+        "name": "flashlight",
+        "amount": 1,
+        "cell": 121,
+        "data": {}
+      },
+      {
+        "name": "12gauge",
+        "amount": 100,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 60
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 54
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 15
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 67
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 48
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 6
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 7
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 8
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 9
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 10
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 11
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 16
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 17
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 18
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 19
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 20
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 21
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 22
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 23
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 51
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 50
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 52
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 53
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 49
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 27
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 28
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 29
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 30
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 31
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 32
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 33
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 34
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 35
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 37
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 72
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "cell": 73
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 74
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "cell": 75
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 57
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 58
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 59
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 55
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 56
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 78
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 38
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 39
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 40
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 41
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 42
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 43
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 44
+      },
+      {
+        "name": "pistol50",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 36
+      },
+      {
+        "name": "nightstick",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 80
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 81
+      },
+      {
+        "name": "nightstick",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 84
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 82
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 83
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 87
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 88
+      },
+      {
+        "name": "nightstick",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 79
+      },
+      {
+        "name": "nightstick",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 85
+      },
+      {
+        "name": "nightstick",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 86
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 24
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "cell": 120,
+        "data": {}
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "cell": 77
+      },
+      {
+        "name": "combatpdw",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 25
+      },
+      {
+        "name": "armor_heavy",
+        "amount": 1,
+        "data": {
+          "health": 19,
+          "color": 0
+        },
+        "cell": 90
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 66
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 68
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 69
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 70
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 71
+      },
+      {
+        "name": "armor_heavy",
+        "amount": 1,
+        "data": {
+          "health": 100,
+          "color": 0
+        },
+        "cell": 91
+      },
+      {
+        "name": "armor_heavy",
+        "amount": 1,
+        "data": {
+          "health": 100,
+          "color": 0
+        },
+        "cell": 92
+      },
+      {
+        "name": "armor_heavy",
+        "amount": 1,
+        "data": {
+          "health": 100,
+          "color": 0
+        },
+        "cell": 93
+      },
+      {
+        "name": "assaultrifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 96
+      },
+      {
+        "name": "assaultrifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 97
+      },
+      {
+        "name": "assaultrifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 98
+      },
+      {
+        "name": "assaultrifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 99
+      },
+      {
+        "name": "assaultrifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 100
+      },
+      {
+        "name": "assaultrifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 101
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 104
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 105
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 106
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 107
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 108
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 109
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 110
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 111
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 112
+      },
+      {
+        "name": "9mm",
+        "amount": 145,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 115
+      },
+      {
+        "name": "9mm",
+        "amount": 240,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 116
+      },
+      {
+        "name": "9mm",
+        "amount": 240,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 117
+      },
+      {
+        "name": "9mm",
+        "amount": 240,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 118
+      },
+      {
+        "name": "9mm",
+        "amount": 240,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 119
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 168
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 175
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 174
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 179
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 178
+      },
+      {
+        "name": "medkit",
+        "amount": 1,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 158
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 159
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 160
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 161
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 167
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 166
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 165
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 164
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 173
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 163
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 162
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 169
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 170
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 171
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 172
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 176
+      },
+      {
+        "name": "medkit",
+        "amount": 4,
+        "data": {
+          "faction": "ems"
+        },
+        "cell": 177
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 26
+      },
+      {
+        "name": "7.62mm",
+        "amount": 60,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 102
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 123
+      },
+      {
+        "name": "9mm",
+        "amount": 11,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 124
+      },
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 68,
+          "color": 0
+        },
+        "cell": 89
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 2
+      },
+      {
+        "name": "7.62mm",
+        "amount": 120,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 103
+      },
+      {
+        "name": "armor_heavy",
+        "amount": 1,
+        "data": {
+          "health": 100,
+          "color": 0
+        },
+        "cell": 129
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 300,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6d6"
+        },
+        "name": "I",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 500,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6d7"
+        },
+        "name": "II",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 800,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6d8"
+        },
+        "name": "III",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6d9"
+        },
+        "name": "IV",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1300,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6da"
+        },
+        "name": "V",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1500,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6db"
+        },
+        "name": "VI",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1800,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6dc"
+        },
+        "name": "VII",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6dd"
+        },
+        "name": "VIII",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2300,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6de"
+        },
+        "name": "IX",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2500,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6df"
+        },
+        "name": "X",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 3000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6e0"
+        },
+        "name": "XI",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 3500,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6e1"
+        },
+        "name": "XII",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 4000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6e2"
+        },
+        "name": "XIII",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 5000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6e3"
+        },
+        "name": "XIV",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 6000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6e4"
+        },
+        "name": "XV",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 7000,
+        "_id": {
+          "$oid": "6079d765560106e37d92e6e5"
+        },
+        "name": "XVI",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "leader": true,
+          "members": true
+        }
+      }
+    ],
+    "members": [],
+    "name": "sang"
+  },
+  {
+    "_id": {
+      "$oid": "6074903232747d7853cf85ca"
+    },
+    "money": 60004,
+    "materials": 12926,
+    "inventory": [
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 3
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 4
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 5
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 10
+      },
+      {
+        "name": "7.62mm",
+        "amount": 60,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 166
+      },
+      {
+        "name": "7.62mm",
+        "amount": 60,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 162
+      },
+      {
+        "name": "7.62mm",
+        "amount": 60,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 160
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 117
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 118
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 119
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 111
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 112
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 113
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 102
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 11
+      },
+      {
+        "name": "shoes",
+        "amount": 1,
+        "data": {
+          "style": 1,
+          "color": 14
+        },
+        "cell": 14
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "armenian"
+        },
+        "cell": 150
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d43"
+        },
+        "name": "Newbie",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d44"
+        },
+        "name": "Lav Tha",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d45"
+        },
+        "name": "Haradah",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d46"
+        },
+        "name": "Anzaghorts",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d47"
+        },
+        "name": "Dzhepkir",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d48"
+        },
+        "name": "Expiry",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d49"
+        },
+        "name": "Naiokh",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d4a"
+        },
+        "name": "Goh",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d4b"
+        },
+        "name": "Kerop",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d4c"
+        },
+        "name": "Bair",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d4d"
+        },
+        "name": "Kavor",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60a29ed2d4e763d1a6723d4e"
+        },
+        "name": "Heginakutun",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "leader": true,
+          "members": true
+        }
+      }
+    ],
+    "members": [],
+    "name": "armenian"
+  },
+  {
+    "_id": {
+      "$oid": "60e4bffc97d35b7f73fc4412"
+    },
+    "money": 1714950,
+    "materials": 5670,
+    "inventory": [],
+    "ranks": [
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b2b"
+        },
+        "name": "Youngsta",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b2c"
+        },
+        "name": "Beginner",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b2d"
+        },
+        "name": "Checked Up",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b2e"
+        },
+        "name": "Hustler",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b2f"
+        },
+        "name": "Hoodlum",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b30"
+        },
+        "name": "Black Flawless",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b31"
+        },
+        "name": "Outlaw",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b32"
+        },
+        "name": "Authority",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b33"
+        },
+        "name": "Deputy Pac",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b34"
+        },
+        "name": "Strawberry Pac",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true,
+          "leader": true
+        }
+      }
+    ],
+    "members": [],
+    "name": "families"
+  },
+  {
+    "_id": {
+      "$oid": "60e4c00597d35b7f73fc4413"
+    },
+    "money": 1719000,
+    "materials": 6000,
+    "inventory": [],
+    "ranks": [
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b35"
+        },
+        "name": "New Blood",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b36"
+        },
+        "name": "Young Gangster",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b37"
+        },
+        "name": "Checked Up",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b38"
+        },
+        "name": "Homie",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b39"
+        },
+        "name": "Bastard",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b3a"
+        },
+        "name": "Ghetto Soldier",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b3b"
+        },
+        "name": "Destroyer",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b3c"
+        },
+        "name": "Killa",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b3d"
+        },
+        "name": "Playa",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b3e"
+        },
+        "name": "East Side Pac",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true,
+          "leader": true
+        }
+      }
+    ],
+    "members": [],
+    "name": "ballas"
+  },
+  {
+    "_id": {
+      "$oid": "60e4c00e97d35b7f73fc4414"
+    },
+    "money": 1440000,
+    "materials": 5021,
+    "inventory": [],
+    "ranks": [
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b3f"
+        },
+        "name": "Novato",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b40"
+        },
+        "name": "Ordinario",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b41"
+        },
+        "name": "Local",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b42"
+        },
+        "name": "Buscando",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b43"
+        },
+        "name": "Hermano",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b44"
+        },
+        "name": "Soldado",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b45"
+        },
+        "name": "El gangster viejo",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b46"
+        },
+        "name": "Autoridad",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b47"
+        },
+        "name": "Asesor",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b48"
+        },
+        "name": "El Padre",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true,
+          "leader": true
+        }
+      }
+    ],
+    "members": [
+      {
+        "userId": {
+          "$oid": "65a802fe3b716a19c0a7dce1"
+        },
+        "rank": {
+          "$oid": "60e4c365f72d16228ff64b48"
+        }
+      }
+    ],
+    "name": "vagos"
+  },
+  {
+    "_id": {
+      "$oid": "60e4c02d97d35b7f73fc4415"
+    },
+    "money": 1543750,
+    "materials": 6000,
+    "inventory": [
+      {
+        "name": "9mm",
+        "amount": 100,
+        "cell": 175
+      },
+      {
+        "name": "9mm",
+        "amount": 100,
+        "cell": 174
+      },
+      {
+        "name": "backpack_small",
+        "amount": 1,
+        "cell": 0,
+        "data": {}
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b49"
+        },
+        "name": "Forastero",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b4a"
+        },
+        "name": "Jovenes",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b4b"
+        },
+        "name": "Formado",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b4c"
+        },
+        "name": "Bandido",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b4d"
+        },
+        "name": "Verificado",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b4e"
+        },
+        "name": "Matador",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b4f"
+        },
+        "name": "Elegante",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b50"
+        },
+        "name": "Suplente",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b51"
+        },
+        "name": "Adjunto",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b52"
+        },
+        "name": "Padre",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true,
+          "leader": true
+        }
+      }
+    ],
+    "members": [],
+    "name": "marabunta"
+  },
+  {
+    "_id": {
+      "$oid": "60e4c050b524c45692910ddd"
+    },
+    "money": 1170507,
+    "materials": 530,
+    "inventory": [
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 9
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 10
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 11
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 3
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 4
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 5
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 6
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 7
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 8
+      },
+      {
+        "name": "9mm",
+        "amount": 100,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 0
+      },
+      {
+        "name": "12gauge",
+        "amount": 10,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 1
+      },
+      {
+        "name": "9mm",
+        "amount": 200,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 2
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 12
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 13
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 14
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 15
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 16
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 17
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 18
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 20
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 21
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 22
+      },
+      {
+        "name": "microsmg",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 23
+      },
+      {
+        "name": "microsmg",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 24
+      },
+      {
+        "name": "microsmg",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 25
+      },
+      {
+        "name": "dbshotgun",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 29
+      },
+      {
+        "name": "microsmg",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 26
+      },
+      {
+        "name": "microsmg",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 27
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 28
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 30
+      },
+      {
+        "name": "revolver",
+        "amount": 1,
+        "data": {
+          "faction": "bloods"
+        },
+        "cell": 31
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 32
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 33
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 34
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 35
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 36
+      },
+      {
+        "name": "armor_light",
+        "amount": 1,
+        "data": {
+          "health": 50,
+          "color": 0
+        },
+        "cell": 37
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b53"
+        },
+        "name": "Settler",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b54"
+        },
+        "name": "Young Gangster",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b55"
+        },
+        "name": "Gangster",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b56"
+        },
+        "name": "Thug Gangsta",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b57"
+        },
+        "name": "Ghetto Soldier",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b58"
+        },
+        "name": "Cutthroat",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b59"
+        },
+        "name": "Loc Killa",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b5a"
+        },
+        "name": "Blood Mentor",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b5b"
+        },
+        "name": "Advisor",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 0,
+        "_id": {
+          "$oid": "60e4c365f72d16228ff64b5c"
+        },
+        "name": "East Side Pac",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "members": true,
+          "leader": true
+        }
+      }
+    ],
+    "members": [
+      {
+        "userId": {
+          "$oid": "65a7f4cd3b716a19c0a7da8d"
+        },
+        "rank": {
+          "$oid": "60e4c365f72d16228ff64b5c"
+        }
+      }
+    ],
+    "name": "bloods"
+  },
+  {
+    "_id": {
+      "$oid": "65ac58c87d30660bf0516b37"
+    },
+    "money": 112,
+    "materials": 23844,
+    "inventory": [
+      {
+        "name": "armor_medium",
+        "amount": 1,
+        "data": {
+          "health": 70,
+          "color": 0
+        },
+        "cell": 6
+      },
+      {
+        "name": "pistol_mk2",
+        "amount": 1,
+        "data": {
+          "faction": "lssd"
+        },
+        "cell": 7
+      },
+      {
+        "name": "armor_heavy",
+        "amount": 1,
+        "data": {
+          "health": 79,
+          "color": 0
+        },
+        "cell": 11
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 800,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e38"
+        },
+        "name": "Deputy Sheriff Trainee",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "wanted": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e39"
+        },
+        "name": "Deputy Sheriff I",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "wanted": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3a"
+        },
+        "name": "Deputy Sheriff II",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "wanted": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3b"
+        },
+        "name": "Deputy Sheriff FTO",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 2500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3c"
+        },
+        "name": "Sergeant",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 3000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3d"
+        },
+        "name": "Staff Sergeant",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 4500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3e"
+        },
+        "name": "Lieutenant",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 5000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3f"
+        },
+        "name": "Captain",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 6000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e40"
+        },
+        "name": "Division Chief",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 6500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e41"
+        },
+        "name": "Assistant Sheriff",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 7000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e42"
+        },
+        "name": "Undersheriff",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 8000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        },
+        "name": "Sheriff",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "leader": true,
+          "members": true
+        }
+      }
+    ],
+    "members": [
+      {
+        "userId": {
+          "$oid": "65c42267eee27a398a49104f"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e38"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65abec8b62e053498142c29e"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65a1bf3bd1ef9c7444381177"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        }
+      }
+    ],
+    "name": "lssd"
+  },
+  {
+    "_id": {
+      "$oid": "606f3422891a4797ca12a97a"
+    },
+    "money": 122700,
+    "materials": 41020,
+    "inventory": [
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 46
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 31
+      },
+      {
+        "name": "stungun",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 30
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 42
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 50
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 51
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 47
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 45
+      },
+      {
+        "name": "nightstick",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 54
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 49
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 48
+      },
+      {
+        "name": "7.62mm",
+        "amount": 36,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 23
+      },
+      {
+        "name": "7.62mm",
+        "amount": 45,
+        "data": {
+          "faction": "sang"
+        },
+        "cell": 22
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 2
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 3
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 4
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 5
+      },
+      {
+        "name": "cocaine",
+        "amount": 1,
+        "cell": 179
+      },
+      {
+        "name": "cocaine",
+        "amount": 3,
+        "cell": 13
+      },
+      {
+        "name": "bat",
+        "amount": 1,
+        "cell": 12
+      },
+      {
+        "name": "7.62mm",
+        "amount": 199,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 20
+      },
+      {
+        "name": "12gauge",
+        "amount": 99,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 19
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 6
+      },
+      {
+        "name": "knife",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 24
+      },
+      {
+        "name": "knife",
+        "amount": 5,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 25
+      },
+      {
+        "name": "12gauge",
+        "amount": 100,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 18
+      },
+      {
+        "name": "carbinerifle",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 9
+      },
+      {
+        "name": "pumpshotgun",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 14
+      },
+      {
+        "name": "smg",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 15
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "cell": 26
+      },
+      {
+        "name": "handcuffs",
+        "amount": 1,
+        "cell": 27
+      },
+      {
+        "name": "9mm",
+        "amount": 50,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 28
+      },
+      {
+        "name": "7.62mm",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 178
+      },
+      {
+        "name": "12gauge",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 177
+      },
+      {
+        "name": "pistol",
+        "amount": 1,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 1
+      },
+      {
+        "name": "pistol",
+        "amount": 4,
+        "data": {
+          "faction": "lspd"
+        },
+        "cell": 0
+      }
+    ],
+    "ranks": [
+      {
+        "salary": 800,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e38"
+        },
+        "name": "Police Officer I",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": false,
+          "workshop": false,
+          "wanted": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e39"
+        },
+        "name": "Police Officer II",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": false,
+          "wanted": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 1500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3a"
+        },
+        "name": "Police Officer III",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "wanted": false,
+          "members": false
+        }
+      },
+      {
+        "salary": 2000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3b"
+        },
+        "name": "Police Officer III+1",
+        "permissions": {
+          "warehouse": false,
+          "inventory": true,
+          "garage": true,
+          "workshop": false,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 2500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3c"
+        },
+        "name": "Sergeant I",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 3000,
+        "_id": {
+          "$oid": "65b30513fca166a21b778f33"
+        },
+        "name": "Sergeant II",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 2500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3d"
+        },
+        "name": "Detective I",
+        "permissions": {
+          "warehouse": false,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 3000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3e"
+        },
+        "name": "Detective II",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 3500,
+        "_id": {
+          "$oid": "65b305957e08913f14389d42"
+        },
+        "name": "Detective III",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 4000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e3f"
+        },
+        "name": "Lieutenant I",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 4500,
+        "_id": {
+          "$oid": "65b305a1eb5c2859d7b56b96"
+        },
+        "name": "Lieutenant II",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 5000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e40"
+        },
+        "name": "Captain I",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 5500,
+        "_id": {
+          "$oid": "65b305ab739d37d6fbaaf45c"
+        },
+        "name": "Captain II",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 6000,
+        "_id": {
+          "$oid": "65b305b1b4f1c45d7848c8bd"
+        },
+        "name": "Captain III",
+        "permissions": {
+          "warehouse": true,
+          "inventory": false,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": false
+        }
+      },
+      {
+        "salary": 6500,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e41"
+        },
+        "name": "Police Commander",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 7000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e42"
+        },
+        "name": "Deputy Chief",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 7500,
+        "_id": {
+          "$oid": "65b305c99762559e08a6a76b"
+        },
+        "name": "Assitent Chief of Police",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "members": true
+        }
+      },
+      {
+        "salary": 8000,
+        "_id": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        },
+        "name": "Chief of Police",
+        "permissions": {
+          "warehouse": true,
+          "inventory": true,
+          "garage": true,
+          "workshop": true,
+          "wanted": true,
+          "leader": true,
+          "members": true
+        }
+      }
+    ],
+    "members": [
+      {
+        "userId": {
+          "$oid": "65c42413eee27a398a491081"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65b00f22bbf62a481bfd15c9"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65d52795ad13aaab8d64b47e"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        }
+      },
+      {
+        "userId": {
+          "$oid": "65bfe404395c2929c3ab59e7"
+        },
+        "rank": {
+          "$oid": "60788596a5a3ec40ca944e43"
+        }
+      }
+    ],
+    "name": "lspd"
+  }
+]
