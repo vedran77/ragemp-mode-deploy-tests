@@ -17,7 +17,6 @@ client_packages/game_resources/
 logs/
 bin/
 dotnet/
-maps/
 
 # build files
 client_packages/cef
